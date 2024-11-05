@@ -1,0 +1,2128 @@
+title_content,label
+"What are the theoretical and actual (measured) minimum water potentials in plants? <p>I'm a plant physiology researcher, but water potentials are not really my thing, so I don't have a great grasp on the literature. I'm dealing with water potential data right now though, and it seems questionable to me. Some of the measured water potential (solute + metric potentials, after lysing cells to break turgor) are as low as -48 bars (most in -10 to -35 range).</p>
+
+<p>That would, if my math is correct, translate to a solute concentration in the 2000 mOsmol range, which seems extremely high to me. Consequently, I'm trying to determine if there is an analytic issue with the data collection. I've run through the equipment chain, checked calibrations, and everything seems ok. I've also been combing plant physiology lit. for comparable data, and I find some in that range, but I can't find any theoretical work that would help set a 'ceiling' for what constitutes a reasonable solute + metric potential.</p>
+
+<p>So, my questions are these:</p>
+
+<ol>
+<li><p>What is the theoretical maximum capacity for dissolved ion concentration in water, and what pressure potential would that represent, compared to pure water.</p></li>
+<li><p>Is anyone aware of plant physiology research that has attempted to establish a minimum in vivo water potential in plants (either total potential, or S+M if it's broken out)?</p></li>
+</ol>
+",0
+"Deciding a reasonable threshold for copy number variation in a CNV (SNP array) TCGA dataset <p>Is there a methodology to select a reasonable threshold for copy number variation in a CNV (SNP array) TCGA dataset, to define when there is a significative alteration?</p>
+
+<p>Can I download CNV data for normal samples and take the 95th percentile of distribution? Are there better methods?</p>
+
+<h2>Update</h2>
+
+<p>This is the percentiles plot of the two distribution (Tumor vs Normal) of values, for the same technology (SNP array) and the same genome (hg19). </p>
+
+<p>The tumor distribution has slightly more extreme values, though it is not enough in my opinion. For this reason I think I should not use a percentile score (the 5th and the 95th percentile of the normal samples distribution, for instance) to define the thresholds to call CNV alterations in the tumor samples.</p>
+
+<p><img src=""http://i.stack.imgur.com/H1TF5.png"" alt=""distributions""></p>
+",0
+"Botulinum Toxin <p>I asked on the cooking site, but was directed here.  This is my original question <a href=""http://cooking.stackexchange.com/questions/35726/botulinum-toxin-in-home-canned-green-beans"">http://cooking.stackexchange.com/questions/35726/botulinum-toxin-in-home-canned-green-beans</a></p>
+
+<p>The reading is quite long, however I merely want to know the <strong>minimum</strong> temperature and <strong>minimum</strong> time at which that temperature must be maintained in order to destroy botulinum toxin.  I want to review a study where the determination was made.  Can anyone assist?</p>
+",0
+"All-or-nothing-law: law or general principle? <p>The all-or-nothing principle indicates that a nerve cell fires at maximum potential or not at all, based on a threshold on the stimulus.</p>
+
+<p>Is this a statement which is always true, or only mostly-always true?</p>
+
+<p>In electrical engineering, a discipline I have studied, we have a similar rule, a logic signal is responded to as though it is either a high or a low.  However, in the middle are what are known as ""metastable states,"" where the rules of thumb do not apply.  In fact, you can even theoretically lock up a logic circuit by presenting a steady stimulus in between two states.  Needless to say, designers of such circuits take great effort to ensure their logic is never exposed to such stimulus.</p>
+
+<p>Do we have any evidence of neurons exhibiting behavior which defies the all-or-nothing law in some circumstances, or if not, what sorts of metastable behavior are seen when the stimulus is exceedingly close to that of the threshold?</p>
+",0
+"Bilirubin metabolism pathway in non-human primates (NHP)? <p>In human UGT1A1 seems to be the only relevant enzyme to glucuronidate unconjugated bilirubin into excreted forms. Is the pathway the same for e.g. the Cynomolgus monkey (Macaca fascicularis) in vivo? In case UGT1A1 is potently inhibited are there any other potential enzyme to glucuronidate/metabolise unconjugated bilirubin in NHP? Any reference would be highly appreciated.</p>
+",0
+"How fallible are DNA paternity tests? <p>Is it possible to get either a false positive or a false negative from a DNA paternity test and what would be the likely mechanisms behind this?  For example, is it possible that a father's DNA could have changed during his lifetime enough to be unrecognisable to that of his children?</p>
+",0
+"How do plants 'tell time' for circadian rhythms based on a ~24 cycle? <p>I've read that many plants have some sort of circadian rhythm where they perform a certain action on a cycle of about 24 hours, like the mimosa plant opening and closing its leaves. Obviously this is done in order to synchronize with the sun, but many such plants continue to perform these actions even when left it constant darkness or light. It follows that this is the result of some sort of biochemical pathway, but whatever internal 'clock' is used is also independent of temperature. </p>
+
+<p><strong>How can these plants perform certain actions every 24 hours at different temperatures when the chemical reactions most biochemical pathways use are temperature dependent?</strong></p>
+
+<p>It would seem like the length of the cycle should vary widely according to the temperature as it affected the reactions involved, but instead it stays at a very constant length very close to 24 hours. How can this be? </p>
+
+<p>(This is in my textbook, but unfortunately the book doesn't cite any studies. I would greatly appreciate it if anyone could help me find one to link to so I can improve the  question. :)</p>
+",0
+"Can a lack of sleep degrade balance? <p>For years, I've noticed that the day after a night of poor sleep (4 hours or less), my balance noticeably degrades. For instance, while walking 20 feet to the coffee maker, I might stumble into the fridge. Is this a shared experience among humans, and is there a physiological explanation for it? </p>
+
+<p>I have noticed that other functions of my body degrade as well (e.g., my ability to focus), but I am particularly interested in the change in my ability to balance.</p>
+",0
+"why plants cannot use atmospheric nitrogen? <p>Earth's atmosphere constitutes 78% of Nitrogen, then why do plants need to absorb Nitrogen from the soil. Why couldn't it possible for them to absorb the atmospheric Nitrogen like they do in the case of CO2. </p>
+
+<p>Most of the plants relies on other sources to fix their Nitrogen, why couldn't be there a single plant which can absorb atmospheric Nitrogen ?</p>
+
+<p>Is there any ancient plant which is considered to be using atmospheric Nitrogen ?</p>
+
+<blockquote>
+  <p>I have done a simple research, I could only find that previously
+  atmosphere is not so abundant with Nitrogen and plants developed
+  mechanisms to use Nitrogen fixed in soil. So now they are following
+  the same mechanism when Nitrogen is abundant in the atmosphere. Is
+  this a valid answer ?</p>
+</blockquote>
+",0
+"is there a way to do batch download for all gene pathways? <p>I would like to download all the gene pathways and genes of each pathway. Preferably, gene length of each gene as well. It would be a lot more convenient if there is an R package. </p>
+",0
+"Anomalous base pairing of nucleotide tautomers <p>What tautomers base pair with what bases? </p>
+
+<p>I know that adenine pairs with thymine and guanine pairs with cytosine normally. My question is what does the <em>imino</em> form of adenine base pair with? Regular cytosine? What does the enol form of guanine base pair with? Regular form of thymine? </p>
+
+<p>I cannot find any books discussing this issue and Google is of no use. However, my professor wants us to know how tautomers base pair. </p>
+
+<p>I tried base pairing cytosine with adenine but does the -NH2 group on cytosine really hydrogen bond with the imino -NH group on the adenine tautomer? </p>
+",0
+"mutant down but not out <p>I am interested in a gene which is null lethal but I need to temporary induce diminished capacity. If a cell is homozygous is it possible to induce heterozygous phenotypes or a partial knockout from WT with siRNA or other molecular methods without virus vectors? I'm not interested in a medillian solution but an inducible molecular way.
+Thank you</p>
+
+<p>I would like to generate a heterozygous Sod2+/- like they do in this paper in mice and possibly human:
+<a href=""http://physiolgenomics.physiology.org/content/16/1/29.full.pdf+html"" rel=""nofollow"">http://physiolgenomics.physiology.org/content/16/1/29.full.pdf+html</a></p>
+",0
+"What is benjamini <p>I was doing some gene expression analysis using this tool <a href=""http://david.abcc.ncifcrf.gov/summary.jsp"" rel=""nofollow"">http://david.abcc.ncifcrf.gov/summary.jsp</a>. However, I have a confusion about what benjamini is. I fed it some gene list and it gave me some potential pathways the genes belong to(KEGG pathways). However, I have a confusion what this column called benjamini is. What does it denote? Any suggestions?</p>
+",0
+"Diffusion of FAD+ <p>Why is NAD+ free to diffuse within the mitochondrion whereas FAD+ is not ? What biochemical properties cause this difference ?</p>
+",0
+"How spermaceti makes a whale float <p>In the biochemistry book I'm reading (Box 10-1, Lehninger Principles of Biochemistry), an example is given in whales of how spermaceti (a wax located in the whale head), when at sea level is a liquid, and allows the whale to float due to its buoyancy. </p>
+
+<p>As the whale dives deeper, the wax turns into a solid (due to the colder temperatures), and hence this more dense wax is less buoyant and prevents the whale from floating back up due to the greater density of the seawater at these depths.</p>
+
+<p>My limited understanding is that density effects buoyancy in so far as that the weight of the object displaces an equivalent weight of water. If the quantity of the water displaced is small enough that the surface area of the object isn't completely submerged, it can float.</p>
+
+<p>Now with the whale example, considering the wax is fully enclosed by the head, how would this change in local density effect the buoyancy of the whale as a whole? The weight of the wax still remains the same (in so far as the example used in the book), the only thing that changes is its density inside the whale.</p>
+
+<p>So with a constant weight, and only a variable local density enclosed by an object (the head) and limited to these conditions only (as this is all the example in the book uses), how is this possible?</p>
+",0
+"What tests can be performed to test the purity and quality of the raw peptide HCG (Human Chorionic Gonadotropin) <p>What tests could be run to test the purity and type of HCG?</p>
+
+<p>We are looking to purchase HCG from China but the purity and quality varies between labs, we are able to receive samples of the raw peptide and can use a contracted lab to perform tests but due to my academic background I have no clue which tests to request to determine the purity and type of the raw powder. The following is what we should be receiving from the labs in China.</p>
+
+<p>Product Description 
+CAS Number: 9002-61-3 
+pI = 2.951
+Extinction Coefficient: EmM = 3.88 (278nm)2
+Synonym: Choriogonin, hCG 
+The molecular weight is approximately 37.9 kDa (with 
+approximately 31% carbohydrate by weight). The 
+theoretical molecular weight is 37.9 kDa based on the 
+native form, which contains 2 subunits. The α subunit 
+has a molecular weight of 14.9 kDa of which 
+approximately 10.2 kDa is for the polypeptide and 
+approximately 4.7 kDa for the carbohydrate. The 
+β subunit has a molecular weight of 23 kDa of which 
+approximately 16.0 kDa is for the polypeptide and 
+approximately 7.0 kDa is for the carbohydrate.3,</p>
+
+<p>To answer Mad Scientists Question, the peptide is ""supposed"" to be CGA (1081) for use on humans. This is why it is so important for us to find a test that can define the qualities of the raw peptide.</p>
+",0
+"Where can you find the quantities of each amino acid of a particular protein or food? <p>Taking a potato as an example. If I wanted to know how much µg or % of each of it's amino acids there are in 1 gram of pure potato protein, where can I find this information? </p>
+
+<p>Is there a freely accessible database online with these statistics? Or, one that contains something for each protein from which this could be derived? (and if so how?)</p>
+",0
+"Is Leptin Stimulated by Insulin Alone? <p>What is the mechanism of insulin stimulation in the human body?</p>
+
+<p>Is leptin release stimulated by circulating insulin directly? Which other factors are involved in the level of insulin release? My goal is to identify nutrients that aid/trigger leptin production and release without causing undue inflammation or body-fat storage.</p>
+",0
+"How many proteins are synthesized in human body throughout life? <p>My idea to calculate this is: </p>
+
+<ol>
+<li>Define up to what age will do the calculation. (for instance 60)</li>
+<li>Determine how many cells born and died up to that point in life. (by type of cell)</li>
+<li>Determine how many proteins are synthesized in the cells life. (by type of cell) </li>
+</ol>
+
+<p>Points 2 and 3 are not constant throughout the life of the human body. To calculate this data I need a function. </p>
+
+<p>After obtaining all the data: complete calculations of addition and multiplication. </p>
+
+<p>The question is not about mathematics, but about useful data to make these calculations. Another approach would be welcome too.</p>
+",0
+"How do researchers map root systems of plants? <p>For example, here is a picture of the root systems for some prairie grasses:
+<a href=""http://www.conservationresearchinstitute.org/assets/rootsposter.enlarge.pdf""><img src=""http://i.stack.imgur.com/yyyzl.gif"" alt=""prairie root network""></a>
+<sup>(Click image for higher-resolution PDF) from: <a href=""http://www.conservationresearchinstitute.org/educational-offerings.html"">http://www.conservationresearchinstitute.org/educational-offerings.html</a></sup></p>
+
+<p>How is it possible to follow one root thread 15 feet down? Especially when they are so densely packed in the top foot of soil that you couldn't dig at all without destroying roots.</p>
+",0
+"Is (are) there any crucial gene(s) for the formation of flower in flowering plants? <p>I am interested in qualitative (flowers of some plants have petal or sepal, but some plants have not) and quantitative (number of flowers of plants) differences between flowers of different plants.
+Formation of flower in flowering plants is under control of which genes?
+Which genes are the most important ones in flower development, for example which gene tell the flower that you should have for example 2 stigmas. or which genes tell the plant that you should have 4 flowers or your flowers will not have sepal...
+Thank you</p>
+",0
+"Rubella in pregnant women <p>Would I be able to detect rubella virus from pregnant women without a history of skin rashes, and/or had IgG+ve and/or IgM-ve or had no antibodies?</p>
+",0
+"Want to identify plant and flower <p><a href=""http://i.stack.imgur.com/bxdOv.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/bxdOv.jpg"" alt=""enter image description here""></a></p>
+
+<p>This plant is hardly 40/50 days old and given to me in seed form claiming to be hibiscus plant seed.I m not sure that it s hibiscus plant.. Please identify.</p>
+",0
+"Are there examples of encryption in nature? <p>There are examples of mathematics in nature such as Fibonacci number, fractals, etc.  Are there examples of encrypted information?  </p>
+
+<p>What I am looking for is a pattern that seems random on the surface, but once you put it through a ""decryption"" process, it is actually something else.  Not patterns that seem random because they are complex.</p>
+
+<p>One example that comes close is DNA.  But I see DNA as a form of <em>encoding</em>, not <em>encryption</em>.</p>
+",0
+"Why do boys sweat more than girls during exercise? <p>I noticed that boys sweat more than girls in the PE class performing same physical activity. Is there any other specific reason except muscle mass?</p>
+",0
+"Can proteins move outside cells? <p>I am trying to learn about basic cell biology, and have what is probably an extremely simple question.</p>
+
+<p>So this is how I understand it so far:
+Proteins are made from amino acids. This process is called protein biosynthesis, which is carried out by the ribosomes. So proteins are made by the ribosomes in every single cell.</p>
+
+<p>So are the proteins made by the ribosomes to stay in the cell? Or can a protein move to other cells, and if so, what's the reason behind it?</p>
+",0
+"What is this insect? Found in Peru <p>I took the pictures today in Cusco Peru. It is the third insect of its class in a month. I never see it before. I thought that it is a wasp, but I think it's really thin to be a wasp. It's about 4 or 5cm.</p>
+
+<p>I want to know what kind of insect is and if it's dangerous. Thanks!</p>
+
+<p><img src=""http://i.stack.imgur.com/11m82.jpg"" alt=""enter image description here""></p>
+
+<p><img src=""http://i.stack.imgur.com/Hj6JQ.jpg"" alt=""enter image description here""></p>
+
+<p><img src=""http://i.stack.imgur.com/upCMh.jpg"" alt=""enter image description here""></p>
+
+<p><img src=""http://i.stack.imgur.com/2Geo8.jpg"" alt=""enter image description here""></p>
+",0
+"Can mitochondria be regenerated by the cell? <p>In the cell, division of mitochondria takes place on a regular basis, but what if there are no mitochondria present in cell (suppose all of them died), then can the cell make new mitochondria on its own?</p>
+",0
+"At which voltage will the conductance decrease due to the narrow pore in a voltage-gated potassium channel? <p>If you have a voltage-gated potassium channel that do not inactivate, at which voltage would you see decrease in ion conductance related to the narrow path in the pore? </p>
+
+<p>With that said I know that in a solutions with other ions there is a possibility that the high driving force eventually will lead to blockage of the pore by other ions. This is more of a theoretical question. </p>
+",0
+"Variance of frequency in expanding populations <p>I'm trying to understand the variance in frequency of some strain after some time as passed in a growing population. The idea is to then plug this in kolmorov foward equations and get the classic results (probability of fixation, time to fixations, mean fitness).
+However, I got a weird result.</p>
+
+<p>I started with the model definde <a href=""http://biology.stackexchange.com/questions/50703/modeling-population-growth-variance"">here</a></p>
+
+<p>$N(t) = N(0)W^{t}$</p>
+
+<p>and from the answers I got that the variance of $N(t)$ would be </p>
+
+<p>$\text{Var}[N(t)] = N(0) W^t(W^t-1)$</p>
+
+<p>Now, the frequency is strain $N_{m}$ is</p>
+
+<p>$f_{m}(t) = \dfrac{N_{m}(t)}{N_{m}(t) + N_{b}(t)}$</p>
+
+<p>assuming only two sub populations. From there I need only the variance of $f_{m}(t)$ and <a href=""http://math.stackexchange.com/questions/40713/calculating-the-variance-of-the-ratio-of-random-variables"">this</a> and <a href=""http://stats.stackexchange.com/questions/230062/variance-of-frequency/230073#230073"">this</a> helped me build a formula. However, the variance of the frequency is not $0$ when $f_{m}(0) = 1 $ and it has units much larger than 1...</p>
+
+<p>My question is, have I done something wrong?</p>
+",0
+"Can the colour of skin change with age <p>Can the colour of skin change with age? Can a dark skinned person become fair or vice versa?  Can Melanocyte production vary?</p>
+",0
+"There are 6 classifications of CFTR mutations. Is a causal relationship to the sweat test known? <p>Cystic fibrosis (CF) is caused by mutations in the gene for the protein cystic fibrosis transmembrane conductance regulator (CFTR).</p>
+
+<p>The CFTR mutations are classified in <a href=""http://www.cftr.info/about-cf/role-of-ctfr-in-cf/cftr-mutations/the-six-classes-of-cftr-defects/"" rel=""nofollow"">6 classes</a>.</p>
+
+<p>The <a href=""https://en.wikipedia.org/wiki/Sweat_test"" rel=""nofollow"">sweat test</a> is used to screen for CF. With the following boundaries:</p>
+
+<ul>
+<li>&lt;= 29 mmol/L = CF is very unlikely </li>
+<li>30 – 59 mmol/L = intermediate possibility</li>
+<li>=> 60 mmol/L = CF is likely</li>
+</ul>
+
+<p>Can I make assumptions from the sweat test in which category a patient may belong? Or can I even make assumptions about a specific mutation?</p>
+",0
+"Multiple start and stop codons in mRNA and pre-mRNA <p>I have a main question that will lead to further questions depending upon the answer.</p>
+
+<p>In the process of transcription, will there be multiple start and stop codons in one sequence of pre-mRNA?  If there is, do they remain in the mRNA after splicing?  If they do, does that mean one mRNA has the coding sequence for the synthesis of multiple different proteins?</p>
+
+<p>One last question: assuming a single mRNA has the sequence for synthesis of a single protein, is the stop codon always the final sequence before the poly-A tail?</p>
+
+<p>Thanks in advance for your help and sorry for the mini rabbit hole.</p>
+",0
+"Are there specific non-protein substances that pathogens release into their host? <p>Reading research articles, I have found out that proteins called effectors get released into the host cell when a pathogen attacks a host. My question is, whether pathogens also release non-protein substances? </p>
+
+<p>Have these substances been extensively studied and classified? Is there a list of such compounds? Are these compounds unique to pathogens?</p>
+",0
+"How can we verify predictions of protein folding in silico? <p>Currently, there is a lot of research focused on solving the folding patterns of proteins using computers (Folding@Home, <a href=""https://fold.it/portal/"">https://fold.it/portal/</a>, etc.).</p>
+
+<p>The question that I have is: How do you know when you get it right?  Is there some way of verifying, <em>in silico</em>, that you have found a legitimate/correct structure for a protein?</p>
+",0
+"Are recessive, deleterious alleles less common on the X chromosome than the autosomes in humans? <p>As there is a potential for them to be more readily purged in hemizygous males (and in cell lineages in females with the deleterious-allele-bearing chromosome activated), I would expect the frequency of deleterious alleles to be lower on this chromosome than in autosomes. Is this information known?</p>
+",0
+"Estimation of number of species at an earlier time <p>The estimated number of species on Earth, as reported in this <a href=""http://www.nature.com/news/2011/110823/full/news.2011.498.html"" rel=""nofollow"">article</a> is around 8.7 million. I am fascinated by how nature produces such a wide variety of species.</p>
+
+<p>As per my understanding, many species have gone extinct, that is, were not able to adapt to changing conditions on Earth. Perhaps the number of species before few thousands of years were larger than today. Can we estimate the approximate number of species at a given point in the past, using available data?</p>
+",0
+"Can human brain memory be removed by EMP? <p>The human brain is the most complicated human organ so it is hard to examine it completely but based on what we know do you think (or do you know from some source) if a human memory can be removed by emp(electromagnetic pulse) ? (If so do you think it would be pernament or temporary?)</p>
+",0
+"Which monkey species features two distinct male phenotypes? <p>I remember coming across a popular science article years ago about a monkey species which featured two male genotypes: the first were good looking males who acquired social status (as alphas or betas) within the group and could thus achieve reproductive succes. The alternative (less frequent) phenotype achieved similar fitness by adopting an outgroup (omega) lurking rapist kind of reproductive strategy.</p>
+
+<p>Does anybody know which species and whose observervations I could be referring to? I'm curious to find out if this was a valid observation and if any further research has been done on this phenomenon.</p>
+",0
+"Redundancy of the genetic code <p>One particular codon codes only for one amino acid, but an amino acid can be coded for by several different codons. Now according to the genetic code, the codon <code>UUU</code> codes for the amino acid phenylalanine and <code>UUA</code> codes for leucine. But, according to the Wobble Hypothesis, the base on the third position of the codon and that on the anticodon need not be complementary (which helps explain why there are very few types of tRNA molecules, inspite of there being 61 codons). If this hypothesis is true, then we could have a phenylalanine placed in a position which was meant to be for leucine, and vice versa (since the codons coding for them differ only in their third base). The same holds true for pairs like aspartic acid &amp; glutamic acid and serine &amp; arginine. So how does translation of a particular mRNA molecule result in the right polypeptide sequence?</p>
+",0
+"What tastes like marigold? <p>I'm  looking to make Georgian Satsivi <a href=""http://georgianrecipes.net/2014/01/02/satsivi/"" rel=""nofollow"">(example recipe)</a>, which has a complex unique flavour that is hard to describe. The recipe asks for marigold as an ingredient, which I can't find in my area. </p>
+
+<p>I've got no idea what marigold tastes like, but I've got a feeling it's quite important to Satsivi's unique flavour, so I'd prefer to substitute it than just skip it. </p>
+
+<p>I'm looking for a substitute that matches the flavour and I don't mind if the appearance is different. The <a href=""http://chowhound.chow.com/topics/307435"" rel=""nofollow"">only relevant discussion I can find</a> speculates that marigold might be used in Georgian cooking for colour as a cheap saffron substitute and suggests tumeric, but that doesn't seem like a great match to satsivi in terms of flavour, and I'm not sure I believe the source. </p>
+
+<p>So, is there anything that tastes similar to marigold? </p>
+
+<p>(and what does marigold taste like, anyway?)</p>
+",1
+"Saving old chocolate <p>I found a bag of chocolate chips in the back of a cabinet that's well past the 'best use by' date and showing signs of bloom.</p>
+
+<p>From experience, I know that it won't melt right, and has a tendancy to be a bit grainy if used as-is.  Is there something that I can do to revive it?</p>
+
+<p>If there isn't, are there recipes where it the bloom isn't a problem?</p>
+
+<p>(and before you say 'crush it up and put it over ice cream' ... I thought of that, but I can't eat dairy)</p>
+",1
+"Sweet sauce for Peking Duck? <p>I've always wondered what sauce they served with Peking Duck at various Chinese restaurants (at least in Australia anyway). Whenever I order Peking duck as takeout, they normally provide a cute little container with a dark <strong><em>liquidy</em></strong> sauce which has a rather sweet taste. </p>
+
+<p>I'm inclined to believe that it could be sweet bean sauce as suggested at various places on the internet but from what I can tell, it's supposed to have a thick consistency. However, this is not the case here. Any ideas what it could be?</p>
+
+<p>It's consistency and colour is very reminiscent of soy sauce but the taste is sweet, like black bean.</p>
+",1
+"Does adding oil to pasta water reduce the tendency to boil over? <p>I know that adding oil to pasta water doesn't keep the noodles from sticking--much better to do that after cooking. I also know that there's no need to cook pasta at a rolling boil. My question is purely that in the title, does adding oil in any way inhibit boiling over? Scientific answers please.</p>
+",1
+"Making cake without oven <p>In the case that there isn't an oven;</p>
+
+<p>is it possible to make <strong>cake</strong> on electric cooktop by using basic kitchenware?</p>
+",1
+"How to keep fruits and vegetables fresh <p>I enjoy fresh fruits and vegetables, but the problem is that they seem to go back extremely quickly.  It isn't realistic for me to go shopping multiple times a week.  Are there any tricks to keeping fruits and vegetables fresh for a longer period of time?</p>
+",1
+"What features should I consider when getting an ice cream or gelato machine? <p>Obviously, there's the amount that it can make in one batch, and there seem to be three basic types (ones you freeze the bowl ahead of time; ones you pack it with salt and ice, and ones that refrigerates themselves).</p>
+
+<p>... and I know I'm looking for one that I don't have to hand-crank ... (I did more than enough of that as a kid)</p>
+
+<p>... but beyond that, are there any features I should be looking for when buying a machine?</p>
+
+<p>If it makes a difference ... I'd mostly be making sorbet with it, as I don't handle dairy well, but I might make ice cream or gelato to share with other people.</p>
+",1
+"Kosher alternative for blood sausage <p>The title explains it all, is there a kosher substitute for blood sausage?*</p>
+
+<hr>
+
+<p>Blood sausage is not kosher due to the inclusion of blood, the consumption of which is forbidden by Jewish law.</p>
+",1
+"Difference between old fashioned and quick oats? <p>What are the difference between old fashioned and quick oats? </p>
+
+<p>Can they be substituted for one another in recipes?</p>
+",1
+"How to brew tasty tea with hard water <p>At our new home, we have hard water.  I had thought that the teabags I was buying were just weak, but the internet seems to indicate that the hard water will actually change the taste of the tea to a more chalky taste with some residue.  </p>
+
+<p>Two suggestions I have come across are either brewing with bottled water (I try to reduce the amount of packaging I buy so don't want to do this), or brewing the tea double strength (this makes it a little bitter).  </p>
+
+<p>What is the best way to get a tasty brew using hard water?</p>
+",1
+"Pastry not ""sticking"" to beef Wellington <p>I've cooked a Wellington a couple of times and whilst I've been pleased with the overall outcome on each occasion the pastry comes away when serving. This is purely for aesthetic reasons.</p>
+
+<p>I use a 1kg fillet, seared, then rolled in to a sausage on a bed of prosciutto ham and a mushroom duxelle with some chicken liver pate mixed in. </p>
+
+<p>I chill this before wrapping in egg washed puff pastry and cooking for about 40 minutes. This has resulted in rare beef, a good crisp pastry that holds its form until cutting it for serving.</p>
+
+<p>It wasn't too wet - it just seems the pastry doesn't want to affix itself to the contents.</p>
+
+<p>Any ideas on how to improve this?</p>
+
+<p>I adapted my recipe from this one <a href=""http://www.bbcgoodfood.com/recipes/2538/beef-wellington"" rel=""nofollow"">http://www.bbcgoodfood.com/recipes/2538/beef-wellington</a></p>
+",1
+"Burning crumpet bottoms <p>When I cook crumpets because the pan has to be so hot and the heat has to remain hot for the bubbles to form. How do I stop the bottom of the crumpets from burning?</p>
+",1
+"Malva pudding recipe containing too much bicarb and vinegar? <p>I tried making Malva pudding today using <a href=""http://www.woolworths.co.za/store/fragments/recipe/recipe-index.jsp?contentId=cmp101391"" rel=""nofollow"">this recipe</a> and the results were decidedly off. I don't know if it was too acidy or basey but definitely didn't taste right. The recipy calls for 2tsp bicarb and 1tbsp vinegar. I did think it was quite a bit of vinegar at the time but trusted the recipe. I assumed the bicarb/vinegar would neutralize eachother and act as a rising agent.</p>
+
+<p>Is this a usual amount of bicarb/vinegar to use in a recipe of this size? Or did I do something else wrong?</p>
+
+<p>Full disclosure: I didn't have jam so that was excluded but followed the recipe faithfully otherwise, fresh ingredients and all. Could the exclusion of the jam have made a diff? I didn't think it would?</p>
+
+<p>Edit:</p>
+
+<p>It could have been the jam! Apricot jam has a pH of 3.8ish which is what makes it preserve so well I believe. So it's possible that the jam was also supposed to neutralize the bicarb.</p>
+
+<p>Edit 2:</p>
+
+<p>I asked about the acid base ratio at chemistry <a href=""http://chemistry.stackexchange.com/questions/24475/what-ratio-of-bicarb-to-vinegar-do-i-need-in-order-for-the-result-to-be-ph-neutr"">here</a> and almost certainly too much bicarb!</p>
+",1
+"Some fishermen tell me I caught a Trout Salmon. Does this fish differ much from ordinary salmon? <p>Like the title says, got a couple questions about the fish I just caught...</p>
+
+<p>Firstly, is there anyway to confirm what type of fish this is? 'Ordinary salmon' or 'trout salmon'?</p>
+
+<p>Lastly, does it differ much in taste from 'ordinary' salmon? I want to search for some good Salmon recipes but I want to be sure I'm looking at the right recipes for the right fish.</p>
+
+<p>Cheers.</p>
+",1
+"Old bread becomes sticky <p>Sometimes white bread, while initially fine,  after a few days becomes sticky inside  as if its going back to a dough-state, though not quite.  The taste also becomes odd.  Does anyone understand what is happening ...?  Heating/drying it in various ways does not help (e.g. steaming, microwave, toasting etc)</p>
+
+<p>i think i have seen this happen only with the small bakery breads, not the mass market variety...</p>
+
+<p>thanks..</p>
+",1
+"Fire side cooking <p>Last week we had a pretty strong winter storm which knocked out our power.  We have an electric stove which of course puts a cramp in cooking.  However i do have a fire place and cast iron, so i tried cooking with the fire. Haveing never done this before I decided a stew would be easiest. So i chucked a bunch of stuff in the dutch oven, put it close to the fire and let it sit for hours. In the end it needed a long time to be done (5 hoursish) but it turned out ok.<br>
+Anyway, does anyone have some suggestions as to the type of food that might led itself well to cooking on actual fire?  we get a lot of storms and we loose power for days at a time. </p>
+
+<p>Thanks</p>
+",1
+"How to know if my walnuts are fresh enough to be good to eat? <p>I have some walnuts which were picked up from under a local tree, left to dry for a while, and shelled. They look moderately old, but haven't become shriveled or gone moldy. Some have a kind of bitter after taste when eaten raw (unpeeled). Does this mean they are too old, or is it normal?</p>
+
+<p>Will they have the same flavour when cooked?</p>
+
+<p>I'm not sure whether I should cook something with them, or whether I should discard them.</p>
+",1
+"Is it okay to salt beef before or while cooking it? <p>I recall reading that you should not salt beef until after it is cooked or it will dry the beef. Yet I see recipes that call for salt in a beef marinade. 
+Is it true that you should only salt beef after it is cooked?</p>
+",1
+"Adding Meat to Pasta Caprese <p>I absolutely love pasta caprese.  I have a great recipe for it that provides perfectly creamy mozarella and tasty tomatoes and uses up the leaves on my basil plant.  It's a great dish.</p>
+
+<p>I also don't consider a meal without some form of protein that isn't cheese to be a meal, and vegetarian meals aren't considered kindly by those I cook for, so I really need at least some meat with every meal.</p>
+
+<p>So my quandry is how to serve my pasta caprese as part of a meal with meat.  In the past I've done grilled chicken breast on the side, but is there a way to make it a one pot meal or serve with another meat main so I'm not limited to chicken?  Ideally I'd like to feature the flavors of the pasta as the main.</p>
+
+<p>I tried hot Italian sausage last night.  It was OK, but I felt that the sausage competed too much with the flavors of the dressing.</p>
+",1
+"Why do we peel carrots? <p>So I was sitting there, looking down at my counter, realizing that I probably had a good carrot or two of shavings just going to waste.  (well, I'll compost it, but it's non-food at that point).</p>
+
+<p>Is there any reason we peel carrots and don't just give them a good scrubbing?  I mean, the scrubbing works for potatoes (so long as they're not green under the skin), and carrots grow in dirt, too.  I don't think it's a pesticide issue, as we did it growing up, and I don't think we cared about pesticides back then.</p>
+
+<p>I admit that sometimes there's odd crooks that might be harder to scrub dirt out of, but is there something fundamental that I'm missing here?</p>
+",1
+"Which nuts can be cracked without tools? <p>I sometimes find myself wanting to eat whole nuts in situations where I have no access to a nutcracker, whether because I'm at work or traveling or otherwise not in a place where I might be expected to keep a nutcracker on hand. I've had good luck squeezing two pecans together in my hand, but what other nuts are good for improvised cracking methods?</p>
+",1
+"Why do peanut butter sandwiches become hard and how to prevent that? <p>I've done this with many different types and brands of peanut butter and bread, after a few hours (I typically pack them in the morning as a snack for the afternoon) the bread gets rock hard. I'm curious why this happens, but mostly how to keep them from getting hard ?</p>
+
+<p>The bread is never toasted, I just spread the butter. I've tried keeping it in a plastic bag, in the fridge, outside the fridge, wrapped in paper towel...nothing. </p>
+",1
+"How does good pasta dough feel to the touch? <p>I have just been given an Imperia Pasta Roller as a present and have wasted no time in trying to make pasta. As advised in the instruction manual, I have made a small batch of pasta just using water and passed this through the rollers in order to clean any factory impurities or debris from the machine. I noticed that the pasta (eggless I hasten to add) was quite soft, much softer than shop bought fresh pasta. I worked some more flour into the dough and the pasta held up quite well to being passed through the rollers. This was then thrown in the bin.  </p>
+
+<p>The next batch that I made, following a recipe by Jamie Oliver, called for 100 grams of flour to 1 egg. I am using Tipo 00 flour. The resulting dough felt firmer and very slightly sticky to the touch but when cooked was very soggy and flabby in texture, not very appetising at all.</p>
+
+<p>For my next batch I added a little extra flour and kneaded it for longer. The dough was dryer than the previous batch and when I took a few strips and put them in boiling water, they cooked perfectly. However the remainder, when I went back to it a couple of hours later had stuck to itself and turned into a solid mass that was really difficult to separate. I had dusted it with fine cornmeal to stop this happening. I was advised not to coat it in flour.</p>
+
+<p>Can anyone please give me some advice on how the dough should feel when correctly prepared (how stiff, how moist or how sticky it should feel) and also some advice on how to stop it from forming a solid mass before I have time to cook it.</p>
+
+<p>Thank you</p>
+",1
+"How to prepare a ginger lime drink mixer? <p>I am trying to prepare a ginger lime (basil) drink mixer.  It will be mixed with Whiskey the day of the event.  </p>
+
+<p>Is it better to prepare a limeade via steeping or a syrup via cooking?  Will the acid in the limes dissolve the ginger and basil over time (i.e. would it ruin the appearance / would I be able to filter them out)?  </p>
+
+<p>Will either of them last two weeks until the event?  I plan to keep them in a sealed jar in the fridge.  Does anyone have any advice on proportions?</p>
+",1
+"How to prevent meatballs from drying out when I substitute a lean meat? <p>The meat in question that I use would be ground turkey, though this could apply for any leaner ground meat used to replace beef. This would also be more for recipes such as turkey burgers and meatballs, where the dryness is more of an issue since the meat itself is the focal point of the dish(i.e not a stew/chili).</p>
+
+<p>I've had fairly decent success with adding chopped chillies to ground turkey, but am looking for more alternatives and non-spicy/less overpowering ways of keeping the meat from getting too dry. </p>
+
+<p>I wasn't sure how to tag this one, so feel free to help me out there.</p>
+",1
+"Baking soda accident in pretzel dough - Can it be salvaged? <p>I made a mistake and put the baking soda in the pretzel dough! Instead of using it for its intended purpose ( Boiling the pretzel dough in it before baking.) It was a box mix: Pretzel Creations Homemade baking mix. </p>
+
+<p>Should I just toss it or is it going to be okay? Is there any way to counter act the baking soda. It is still in a dough ball. The packets were not marked and I thought the baking soda was the yeast package.</p>
+",1
+"How long can eggs be unrefrigerated before becoming unsafe to eat? <p>A friend of mine accidentally left a carton of eggs on her counter, unrefrigerated, for three days. The eggs had been previously refrigerated both at the store and at home. Now she's planning to do some more cooking which requires eggs, and is wondering if it's still safe to use them for baking. I believe she is planning on baking cookies with them, so they would be baked at fairly high temperatures for probably at least 10 minutes. Would this be safe, or are eggs left unrefrigerated for that long not safe for consumption?</p>
+",1
+"How do I season an iron griddle on an induction hob? <p>I have an induction hob but no oven, how do I season a new cast iron pan I'm thinking of getting?</p>
+",1
+"Can I really put frozen ramekins in a preheated oven? <p>I found a make-ahead chocolate souffle recipe that calls for freezing prepared ramekins and then pulling them out (without thawing) and baking in a preheated 400F oven. Isn't that a bad idea, risking cracking the ramekins from the thermal stress?</p>
+
+<p>The recipe is <a href=""http://www.americastestkitchen.com/recipes/1577-make-ahead-chocolate-souffle"" rel=""nofollow"">originally from America's Test Kitchen</a> (paywalled, sorry), so I'd expect it to be pretty trustworthy, but this seems a bit scary!</p>
+",1
+"When spicing rice, should you add the spices in the water beforehand or after the rice has cooked? <p>Newbie cook here. I use a small inexpensive rice cooker to cook my rice.</p>
+
+<p>Are you supposed to add your various spices to the water when you put the rice in the pot? Or should you add the spices in at the end when the rice is fully cooked and stir them in?</p>
+
+<p>Does it matter what kinds of spices you are using?</p>
+
+<p>Edit: Please explain <strong>why</strong>. Is this only for aesthetics or does it actually affect taste?</p>
+",1
+"Is it safe to re-heat food twice in a short time span? <p>Imagine the following scenario. You make some food, and put part of it in the fridge relatively quickly (often before I eat, so I save e.g. half for later).<br>
+Some time later, usually dinner the same day, or either lunch or dinner the next day, I re-heat that food.<br>
+So far, so good, I assume.</p>
+
+<p>Now, the question is: what if I re-heat it (first time) for dinner, but it gets cold while eating, and I re-heat it the second time perhaps 20-60 minutes later?</p>
+
+<p>A, is it safe at all, and B, if it can be, do I have to heat it to cooking temperature yet again, or can I simply heat it so it's pleasant to eat, this <em>second</em> time? I always heat it properly the first time around.</p>
+",1
+"A recipe inspired by Brat cheese sauce/Cooking in Wine <p>I followed a recipe to the effect of:</p>
+
+<ul>
+<li>boil Brat sausages in 24 ounces of beer</li>
+<li>remove sausages (do not drain the beer), pan fry or grill them</li>
+<li>add 2 c. sharp cheddar, and 1 package cream cheese to the remaining beer, whisk over heat until you get a nice creamy cheese sauce.**</li>
+</ul>
+
+<p>It was very simple. Very tasty. It was like a good Welsh Rarebit sauce.</p>
+
+<p>Do you think this could be adapted to wine and white cheeses, to the effect of:</p>
+
+<ul>
+<li>boil sausage or chicken in a dry white wine</li>
+<li>remove meat; grill or pan fry it</li>
+<li>add 2 cups motzarella, 1 cup grated parmesan to the boiled wine--whisk over heat until you have a smooth sauce.</li>
+</ul>
+
+<p>Do you think that would work?  I've never cooked in large quantities of wine. I don't recall recipes that have done so. Any recommendations on the cheeses/quantities?</p>
+
+<p>** I used store brand cream cheese. It didn't melt completely. Next time I will use a higher quality cream cheese.</p>
+",1
+"Do I always have to peel garlic? <p>Is it safe to prepare ginger garlic paste without peeling garlic skin ?? I always peel garlic which is a labourious and time taking process. I would like to know whether if it is ok to make paste without peeling skin of the garlic.</p>
+",1
+"How do I keep Clam juice <p>I have about three gallons of clam juice, after steaming about 400 clams. How can I safely keep, can, or store this much juice for further use?</p>
+",1
+"What is the best marker for writing on glass? <p>I am looking for a permanent marker for writing on glass spice containers that can endure being washed.  I thought of just using sticky paper labels but they will not endure washing.  Should I go for oil-based markers?</p>
+",1
+"cake burns on bottom <p>Why is my cake burning on the bottom and the top is not done.  I must not have the oven rack in the right place.  If I want the cake to bake less on the bottom, what position should the rack be in.</p>
+",1
+"How to bind chopped pepperoni, salami, and bacon <p>I have this sandwich I make that I think is pretty good, except that I have a problem with it falling apart. </p>
+
+<p>Basically I take sliced salami, sliced pepperoni, (precooked) bacon, and banana peppers and throw them into a food processor to grind it up fairly ground up but not pasty. </p>
+
+<p>I then put it in a skillet with some olive oil and brown/crisp it a little and then I add some red wine vinegar and black pepper to taste and set aside. </p>
+
+<p>Then I take a loaf of french bread (there's this ""everything"" french bread at my local store that has ""everything"" seasoning on top of it, which I like to use, vs. plain french bread). I cut it in half lengthwise and scoop out some of the inside of the bread.  </p>
+
+<p>I squirt some horseradish sauce on the bottom side, then add a layer of sliced sharp chedder and pepper jack cheese. Then I add heap of the meat mix, and finally top with another layer of sliced sharp chedder and pepper jack cheese.  </p>
+
+<p>I then butter the skillet and press the sandwich on the skillet on each side for about a minute (like a cubano). </p>
+
+<p>So this is one of my favorite sandwiches to make, and I think it's yummy! The problem is it's a little bit of a pain to eat, because there really isn't anything binding the meat together.</p>
+
+<p>So I've been trying to figure out what I can do to make it not fall apart.  The first thing I tried is to shred/grate the cheese and mix it in with the meat. Unfortunately, that doesn't work. I assume it's because of the olive oil and vinegar, but I haven't tried outright removing them, as it's a crucial part of the flavor I'm going for.  </p>
+
+<p>Next time I get a chance to make this sandwich, I was thinking maybe I would try browning the meat without adding the oil/vinegar, and instead sprinkle them on the top while building the sandwich. I figure this <em>might</em> help, but I'm not entirely sure it will completely help, since these meats are a bit fatty in their own right. </p>
+
+<p>I was also thinking I could go the route of making it a patty (like making a hamburger patty), where I mix an egg and some breadcrumbs and cook it as a patty. I'm not so sure I really want to do that though. I'm not outright opposed to it, but I already feel like the flavor is where I want it, so I'd like to avoid throwing new flavors into the mix (though admittedly, eggs and breadcrumbs are fairly neutral).  </p>
+
+<p>But I'm also not sure I dig the idea of a patty for this sandwich in general. I like the mouth feels of heaping mass of chopped meat, and I actually don't mind if there's <em>some</em> amount of ""fall apartness"". I just really want to reduce it a bit somehow.  </p>
+
+<p>I'm certainly down for experimenting but I'm not by any means even fractionally rich, so I can only indulge in this pleasure about once a month or so, so I was hoping I could maybe see if anybody else out there might have any ideas?</p>
+
+<p>If you got this far, thanks for reading my TL;DR!</p>
+",1
+"How to parcook a casserole? <p>I have a wonderful mousaka recipe which involves layers of baked potato, eggplant, and beef. It is topped with a cheesy bachamel and cooked until golden brown on top. It is very similar to a lasagna. </p>
+
+<p>I would like to cook this dish for a party for 20 people. Unfortunately I cannot prepare everything immediate beforehand. So I would like to complete as much as possible a day in advance.  </p>
+
+<p>I could cook this dish completely and then reheat it in the oven before the party, but I'm afraid the bachamel top will over crisp and the bottom will burn. </p>
+
+<p>Can I instead parcook this dish? I believe I could cool all the ingredients up until the point the bachamel is added, then chill it, and then simply bake as is for 1.5 hours until warmed through and the topping browns nicely.</p>
+
+<p>Or should I worry about the sauce clumping or other concerns?  </p>
+",1
+"Gas grill: soaked wood chips vs. dry wood chips <p>I have a gas grill and want to get some good smoke flavor in a pork shoulder I am cooking. I've done some looking around for the best way to use wood chips and have found conflicting ideas about if you should soak them or not. Does soaking the chips do something other than adding time to getting to the initial smoke?</p>
+",1
+"Do I need to thaw fish before steaming it? <p>Can I thaw fish during steam cooking or is it better to leave the fish the night before in the fridge?</p>
+",1
+"LinkedIn in-app browser forcing video to fullscreen on iPhone <p>We are using LinkedIn to share a link to an HTML5 interactive video. When the link is shared, by default it opens in LinkedIn's browser inside the app. The problem is that when the user starts playing the video, the browser automatically switches to fullscreen, hiding our custom controls. iOS allows inline video playback nowadays with <em>playsinline</em> attribute on the video element, but LinkedIn browser doesn't support the attribute. On iPad the video does play inline though and does not switch to fullscreen. We have tested this bug on iOS versions 10 and 11. On native Safari browser or Google Chrome there's no problem, the video plays inline as intended. The video plays inline in other apps, for example Facebook Messenger's in-app browser. The only problem we have had is with the LinkedIn browser.</p>
+
+<p>Is there any way to play a video inline on iPhone when using the in-app browser without going fullscreen? Or, is there any url scheme that could be used to launch Safari from the in-app browser? Currently the user experience is quite bad when the users have to manually exit fullscreen, which also pauses the video.</p>
+",4
+"How to use ""HTML form target self"" ? I am new to HTML and need to complete a simple task.
+
+I have a database with some numbers assigned to a fake account (PHP).
+I try to contact the database (with success) and get the right result from the form. 
+
+My issue is that the form result open a new page and display there...
+I would really like the result to be displayed IN the module I use to send the form OR anywhere else on the same page I used to send the form.
+
+Here is my code:
+
+    <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <form 
+        method=""post""
+        action=""http://ggdbase.dx.am/impulseGetInfo.php"" 
+        target=""_self"">
+        
+         Account name:<br>
+         <input type=""text"" name=""name"" value=""derps"">
+         <br>
+         <input type=""submit"" value=""Click To Load Account Info"">
+    </form> 
+    
+    </body>
+    </html>
+
+[This is what the module look like (on Enjin.com)][1]
+
+[This is what I get when clicking the button][2]
+
+I did try replacing '_self' with '_blank' or parent and all the other options I could find but none of them gave me a different result :S
+
+**Also , could it be caused by the Enjin system itself ?
+
+If anyone have a clue how I can fix this, I cant wait to get your feedback !
+
+  [1]: https://i.stack.imgur.com/8pxKl.jpg
+  [2]: https://i.stack.imgur.com/jJpM0.jpg",4
+"Getting through in Machine Learning <p>I have just completed Machine learning course from Andrew ng and would like to proceed further.
+I also want the python implementation of Machine Learning from beginning so that i can practice on Kaggle.
+Also, is there any better book or tutorial or some resource like that so that i can proceed further without wasting any time searching such resources. </p>
+",4
+"Using ConstraintLayout with custom Android Dialog <p>I'm creating a custom Dialog by extending Dialog and using setContentView(). The problem is when I try to show the Dialog it only shows the background shadow instead of my custom layout. I've managed to get the custom layout to show by wrapping it in a RelativeLayout, but I'm wondering if there is a better solution or something I'm doing wrong. Using constraintLayout version 1.0.2. Thanks!</p>
+
+<p>Here is my Custom Dialog:</p>
+
+<pre><code>class EventsFilterDialog(context: Context): Dialog(context) {
+    init {
+        setContentView(R.layout.dialog_events_filter)
+        setCancelable(true)
+    }
+}
+</code></pre>
+
+<p>Here is a simplified version of my R.layout.dialog_events_filter that has the exact same result:</p>
+
+<pre><code>&lt;?xml version=""1.0"" encoding=""utf-8""?&gt;
+&lt;android.support.constraint.ConstraintLayout
+    xmlns:android=""http://schemas.android.com/apk/res/android""
+    xmlns:app=""http://schemas.android.com/apk/res-auto""
+    android:background=""@color/white""
+    android:layout_width=""match_parent""
+    android:layout_height=""wrap_content""&gt;
+
+    &lt;TextView
+        android:id=""@+id/headerTv""
+        android:text=""@string/events_filters""
+        android:textColor=""@color/white""
+        android:textSize=""18sp""
+        android:textStyle=""bold""
+        android:gravity=""center""
+        android:background=""@color/colorPrimaryLight""
+        android:padding=""16dp""
+        android:layout_width=""0dp""
+        android:layout_height=""wrap_content""
+        app:layout_constraintTop_toTopOf=""parent""
+        app:layout_constraintLeft_toLeftOf=""parent""
+        app:layout_constraintRight_toRightOf=""parent"" /&gt;
+
+    &lt;View
+        android:id=""@+id/middleView""
+        android:layout_width=""0dp""
+        android:layout_height=""256dp""
+        app:layout_constraintTop_toBottomOf=""@+id/headerTv""
+        app:layout_constraintLeft_toLeftOf=""parent""
+        app:layout_constraintRight_toRightOf=""parent"" /&gt;
+
+    &lt;TextView
+        android:id=""@+id/closeTv""
+        android:text=""@string/close""
+        android:textColor=""@color/white""
+        android:textAllCaps=""true""
+        android:textStyle=""bold""
+        android:gravity=""center""
+        android:background=""@color/colorPrimaryLight""
+        android:layout_width=""0dp""
+        android:layout_height=""48dp""
+        app:layout_constraintTop_toBottomOf=""@+id/middleView""
+        app:layout_constraintLeft_toLeftOf=""parent""
+        app:layout_constraintRight_toLeftOf=""@+id/applyTv"" /&gt;
+
+    &lt;TextView
+        android:id=""@+id/applyTv""
+        android:text=""@string/apply_filter""
+        android:textColor=""@color/white""
+        android:textAllCaps=""true""
+        android:textStyle=""bold""
+        android:gravity=""center""
+        android:background=""@color/colorAccent""
+        android:layout_width=""0dp""
+        android:layout_height=""48dp""
+        app:layout_constraintTop_toBottomOf=""@+id/middleView""
+        app:layout_constraintLeft_toRightOf=""@+id/closeTv""
+        app:layout_constraintRight_toRightOf=""parent""/&gt;
+
+&lt;/android.support.constraint.ConstraintLayout&gt;
+</code></pre>
+",4
+"how to set a button as it plays an audio clip after 5 or 10 seconds in swift? Creating a program so that when the time limit of 5 or 10 is selected .
+Then by pressing a button named ""continue"" the audio will play after that desired time.
+",4
+"Javascript - combine two arrays in every possible way <p>If I have two arrays:</p>
+
+<pre><code>var arrOne = ['a','b','c']
+var arrTwo = ['1','2','3']
+</code></pre>
+
+<p>How can I get a new array from this that will mix every value like so:</p>
+
+<pre><code>var result = ['a1','a2','a3','b1','b2','b3','c1','c2','c3']
+</code></pre>
+",4
+"Custom back button for NavigationView's navigation bar in SwiftUI <p>I want to add a custom navigation button that will look somewhat like this:</p>
+
+<p><a href=""https://i.stack.imgur.com/OFgvK.png"" rel=""noreferrer""><img src=""https://i.stack.imgur.com/OFgvK.png"" alt=""desired navigation back button""></a></p>
+
+<p>Now, I've written a custom <code>BackButton</code> view for this. When applying that view as leading navigation bar item, by doing: </p>
+
+<pre><code>.navigationBarItems(leading: BackButton())
+</code></pre>
+
+<p>...the navigation view looks like this:</p>
+
+<p><a href=""https://i.stack.imgur.com/3YZD9.png"" rel=""noreferrer""><img src=""https://i.stack.imgur.com/3YZD9.png"" alt=""current navigation back button""></a></p>
+
+<p>I've played around with modifiers like:</p>
+
+<pre><code>.navigationBarItem(title: Text(""""), titleDisplayMode: .automatic, hidesBackButton: true)
+</code></pre>
+
+<p>without any luck.</p>
+
+<h2>Question</h2>
+
+<p>How can I...</p>
+
+<ol>
+<li>set a view used as custom back button in the navigation bar? OR:</li>
+<li>programmatically pop the view back to its parent?<br>
+When going for this approach, I could hide the navigation bar altogether using <code>.navigationBarHidden(true)</code></li>
+</ol>
+",4
+"Iam trying to write an SQL server Query using joins and having some difficulty Tables are explained in detail as below:
+
+I have 3 tables:
+
+Table A 
+(It serves as a mastertable for information about the employees)
+
+EmployeeId(Primary key)|Employee Designation|EmployeeName|(More columns of employee data which is not relevant to this particular query)
+
+Table B
+(It serves as table where all employees who are accounted for are stored.For eg an employee who has reported sick or is on leave or has pregnancy leave, etc.Bottom line an employee which is not available)
+
+EmployeeID(Primary key)(Also referencing master table A as foreign key)|AccountedFor||AccountedFordurationFrom(datetime)|AccountedForDurationTo(datetime)
+
+
+Table C
+(It serves as a table where excused data of employees are present.For eg we have our organization's time table spread as events,1st event is morning time conference,then 2nd is silence working time,3rd is brainstorming sessions etc.Now if an employee is excused for a particular event ,it is entered here)
+EmployeeID|EventCode|Excuse_DurationFrom|Excuse Duration To|Any specific Detailment
+
+Here EmployeeID and ExcusedForEventCode are both composite primary keys as it is possible to have same employeeId for multiple excuses,but the combination is always unique.
+
+We have built some custom attendance management system and would require the following details:
+
+1.We need to find all those employees who are neither accounted for nor excused for a specific event(this will be provided through front end) for a time duration selected through the front end.
+2.The result of the above query will subsequently be used to compare with a biometric attendance machine logs which gives 
+EmployeeId|LogDate(datetime)|EventCodes as a separate table input to our database.(Mastertable A employeeId references this EmployeeId as foreign key)
+
+It will be compared to find out true absentees for a particular event.ie All those employees who are neither accounted for,nor excuses for any particular event and who does not figure out in the biometric scan machine logs are absented for those time duration selected.We need the output of absentee like this
+EmployeeId|Employee Designation|Employee Name|EventName(Have a separate table linking with EventCode)|Date&time(This would be per day per event report of employee who are absent from the selected time duration).
+
+We have tried queries like:
+
+select employeemastertable.employeeid,employeemastertable.Designation,employeemastertable.Name,EventCodes.EventCodeName as Eventexcusedfrom from employeemastertable inner join employeeexcusedforevents on employeemastertable.employeeid=employeeexcusedforevents.employeeid inner join EventCodes on employeeexcusedforEvents.ExcusedForEventCode=EventCodes.Eventcode left  join employeeaccountedFor on employeemastertable.employeeid=employeeaccountedFor.employeeid where employeeexcusedforevents.ExcusedForEventCode!=1(Morning conference) and employeeaccountedFor.employeeid is null;
+
+Names have been changed
+
+I do understand this will give those employees who does not figure out in event Morning conference but even if i do left join instead of inner join between employeemastertable and employeeexcusedForevents and put employeeexcusedforevents.excusedforeventcode is null and employeeexcusedforevents.employeeid is null,i do get all those employees not present in the other two table,but the criteria of event is not satisfied.That means what if the employee is excused for the 2nd event as well in the organization.How would i cater for that in the above code?(PS this is only the 1st part of the equation i understand that,after this i need help for the other part also,where time duration and comparing with logs is concerned)?
+
+urgent help would be appreciated fully
+
+
+",4
+"How to play video full screen in landscape using exoplayer <p>I am using exoplayer to play video from url in my android app. In portrait everything work as expected (using viewpager, fragments and tabs inside activity).
+My goal is to play the video in full screen when the user is in landscape. It means only the video will play in landscape and all other details will desapear and return back to the original layout when portrait.
+How can I achieve this please? or what is the best way to achieve this? any sample code will be appreciate.</p>
+
+<p><a href=""https://i.stack.imgur.com/xXOAd.jpg"" rel=""noreferrer""><img src=""https://i.stack.imgur.com/xXOAd.jpg"" alt=""Video to be play when portrait""></a></p>
+",4
+"Why this is so(see the below two code samples)? <p>Code 1:</p>
+
+<pre><code>public void displayQuantity(int number) {
+    TextView quantityTV = (TextView) findViewById(R.id.quantity_tv);
+    quantityTV.setText( "" ""+ number);
+      }
+</code></pre>
+
+<p>Code 2:</p>
+
+<pre><code> public void displayQuantity(int number) {
+            TextView quantityTV = (TextView) findViewById(R.id.quantity_tv);
+            quantityTV.setText(number);
+         }
+</code></pre>
+
+<p>Why Code 2 gives error while code 1 doesn't??
+There is a difference of - "" __ "" in b/w code 1 &amp; 2</p>
+",4
+"Angular2: Unsubscribe from http observable in Service <p>What is the best practice to unsubscribe within a Angular2 service from a http subscription?</p>
+
+<p>Currently I do this but I'm not sure if this will be the best way.</p>
+
+<pre><code>import { Injectable } from ""@angular/core"";
+import { Http } from ""@angular/http"";
+
+import { Subject } from ""rxjs/Subject"";
+import { ISubscription } from ""rxjs/Subscription"";
+
+@Injectable()
+export class SearchService {
+    private _searchSource = new Subject&lt;any&gt;();
+
+    public search$ = this._searchSource.asObservable();
+
+    constructor(private _http: Http) {}
+
+    public search(value: string) {
+        let sub: ISubscription = this._http.get(""/api/search?value="" + value)
+            .map(response =&gt; &lt;any&gt;response.json())
+            .do(data =&gt; this._searchSource.next(data))
+            .finally(() =&gt; sub.unsubscribe()).subscribe();
+    }
+
+}
+</code></pre>
+",4
+"Pass output as input argument for the callback <p>I have a situation where I need to get a value from ajax call, then pass that value to a callback function. Just like this:</p>
+
+<pre><code>function getValue(callback){
+    var val = getfromajax();
+    //need to return value and then execute the callback here
+    return val;
+    callback();
+}
+
+var myval = getValue(function(){
+    alert(myvalue)
+})
+</code></pre>
+
+<p>In the example above in the functon showValue I need to call getValue and use the returned value and pass it to callback function (which alerts it).</p>
+
+<p>Is there a way to do that?</p>
+",4
+"Best way to find duplicates from two List <p>In Java, I have two ArrayLists:</p>
+
+<pre><code>A = [Ab, cd, df, FE, ...]
+B = [ab, cde, de, fE, ...]
+</code></pre>
+
+<p>If the lists are a little big, the brute force method is very slow:</p>
+
+<pre><code>for(String a : A) {
+  for(String b : B) {
+     if(a.equalsIgnoreCase(b)) {
+        System.out.println(""duplicate: "" + a ""-&gt;"" + b);
+     }
+  }
+}
+</code></pre>
+
+<p>What's the best way to make it faster, but not super complicated to implement? </p>
+",4
+"Android Studio Show backgrounds tasks in the status bar instead of a floating window <pre><code>Android Studio 2.0 Beta 5
+</code></pre>
+
+<p>Every time I build and deploy I get this floating background task appear.</p>
+
+<p><a href=""https://i.stack.imgur.com/Rt3E8.png""><img src=""https://i.stack.imgur.com/Rt3E8.png"" alt=""enter image description here""></a></p>
+
+<p>Normally I click the minimize button to get it to display in the status bar. However, can we change the default behaviour to always show in the status bar.</p>
+
+<p>I couldn't find anything in the settings so not sure if Android Studio designed this way.</p>
+
+<p>I just find this thing annoying.</p>
+
+<p>Many thanks for any suggestions,</p>
+",4
+"Unable to View the output of a python Script in Poweshell > `with open('names.txt', 'r') as f:
+    myNames = f.readlines()[The Print statement doesn't produce any output][1]`
+
+
+  [1]: https://i.stack.imgur.com/tEdem.png
+
+So when i type these lines in my Powershell, i get no syntax error. But the Print statement show any output.Am i missing something? Also attached the Screenshot for reference",4
+"If Else Troubles (C#) I have an issue with my if else statement to where it will only display the else output and not the if output.
+
+
+
+
+
+         default:
+                    if (GradeVar >= 10)
+                    {
+
+                        Console.WriteLine(""That grade is a perfect score. Well done!"");
+    
+
+                    }
+                    else
+                    {
+                        Console.WriteLine(""That grade is not passing."");
+                    }
+                    break;
+
+      
+            }
+            Console.ReadLine();
+            }
+
+       
+        }
+    }
+
+
+Here's the specific code I am talking about; its for a program to display certain messages for grades",4
+"dyld: Library not loaded: /usr/local/opt/openblas/lib/libopenblasp-r0.2.20.dylib <p>When I run <code>R</code> I get:</p>
+
+<pre><code>dyld: Library not loaded: /usr/local/opt/openblas/lib/libopenblasp-r0.2.20.dylib
+  Referenced from: /usr/local/Cellar/r/3.5.0_1/lib/libR.dylib
+  Reason: image not found
+Abort trap: 6
+</code></pre>
+
+<p>Indeed the file is absent:</p>
+
+<pre><code>ls /usr/local/opt/openblas/lib/libopenblasp-r0.2.20.dylib
+ls: cannot access '/usr/local/opt/openblas/lib/libopenblasp-r0.2.20.dylib': No such file or directory
+</code></pre>
+
+<p>I'm on macOS 10.13.3 and used <a href=""https://brew.sh/"" rel=""noreferrer"">homebrew</a> to install R like this:</p>
+
+<pre><code># Java
+brew cask install java
+
+# OpenBLAS (installs gcc and other dependencies)
+brew install openblas
+
+# R language for statistical computing
+brew install r --with-openblas --with-java
+
+# Install XQuartz, needed for R package ""Cairo""
+brew cask install xquartz
+
+# Needed for R package ""RMySQL""
+brew install mariadb-connector-c
+
+# Needed for R packages: udunits2, units, ggforce
+brew install udunits
+</code></pre>
+",4
+"If display(15) i want the result 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24 <p>I have code and if display(15) i want the result is 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24 please help me </p>
+
+<p><div class=""snippet"" data-lang=""js"" data-hide=""false"" data-console=""true"" data-babel=""false"">
+<div class=""snippet-code"">
+<pre class=""snippet-code-js lang-js prettyprint-override""><code>function daz(num){
+  for(var i = 1; i &lt; num; i++){
+    if(num % 7 === 0 || num % 11 === 0 || num % 14 === 0){return false}
+    if(num % 2 === 0 || num % 3 === 0 || num % 4 ===0 || num % 5 === 0){
+      return true;
+    }
+  }
+}
+function display(n){
+  var zumba = [1];
+  for(var i = 1; i&lt;=n;i++){
+    if(daz(i)){
+      zumba.push(i);
+    }
+  }
+  document.write(zumba);
+}
+
+display(15)</code></pre>
+</div>
+</div>
+</p>
+",4
+"i want last 12 month + current month sale and my date format is string in mysql select pd.DC_Date,sum(pd.Quantity-pd.Credit_Quantity) as 'Sales' from past_year_data pd
+ inner join idash_tb2_product_list PL ON PD.Product_Name=PL.Product_Name
+where pd.Branch_Name = 'Delhi' and DATE_FORMAT(STR_TO_DATE(DC_Date,'%m'), '%M')=DATE_FORMAT(STR_TO_DATE('7/31/2017', '%m'), '%M') 
+
+
+This is what i m trying to do ",4
+"PHP URL decode GET While intercepting traffic of an app i got this GET APIs but i dont know how to decode them so that they look like what they are actually please help me.
+/api/v1/referral/createuser?phoneNumber=7018805137&deviceImeiId=lQAHMiAwBx%2B%2FchlgHKjWfA%3D%3D%0A&hardwareSerialNumber=bcZ%2Bb5VrI84UN%2FWXJj8hyQ%3D%3D%0A&macAddress=pDQheRx1nNFqOz%2Fw9Y9bI3I96uVKXjhkDXNhNgV%2FyGw%3D%0A&androidID=PQ9kdlHyznGdGKcl0QYh3hp4XeRUz0bBVMnABcxRsZ8%3D%0A&referralCode=7JMYUZ&lastEnabledTime=1481449847956&updateTime=1481449669855&installationTime=1481449669855",4
+"Error in is.data.frame(x) : object file name' not found pls, i dont know why always fail when i save my work
+
+#menentukan tempat penyimpanan
+setwd(""C:/Users/Child-PC/Documents/Doc/Kerja/Jakarta Smart City/Data/CRM/CRM (Files) Mei 2019/R Function"")
+
+#menyimpan data ke csv
+write.csv(nilai_data, file=""nilai_data.csv"")",4
+"How to explode multiple columns of a dataframe in pyspark <p>I have a dataframe which consists lists in columns similar to the following. The length of the lists in all columns is not same. </p>
+
+<pre><code>Name  Age  Subjects                  Grades
+[Bob] [16] [Maths,Physics,Chemistry] [A,B,C]
+</code></pre>
+
+<p>I want to explode the dataframe in such a way that i get the following output-</p>
+
+<pre><code>Name Age Subjects Grades
+Bob  16   Maths     A
+Bob  16  Physics    B
+Bob  16  Chemistry  C
+</code></pre>
+
+<p>How can I achieve this?</p>
+",4
+"Pandas DataFrame search is linear time or constant time? <p>I have a dataframe object <code>df</code> of over 15000 rows like:</p>
+
+<pre><code>anime_id          name              genre    rating
+1234      Kimi no nawa    Romance, Comedy     9.31
+5678       Stiens;Gate             Sci-fi     8.92
+</code></pre>
+
+<p>And I am trying to find the row with a particular anime_id.</p>
+
+<pre><code>a_id = ""5678""
+temp = (df.query(""anime_id == ""+a_id).genre)
+</code></pre>
+
+<p>I just wanted to know if this search was done in constant time (like dictionaries) or linear time(like lists).</p>
+",4
+"How to ask user for username or other data with vs code extension API <p>I want to receive some input from the user, such as <code>username</code> and use it in the code. How to achieve that?</p>
+",4
+"Angular 2 change image src attribute <p>Assuming I have the following code:</p>
+
+<pre><code>&lt;img [src]=""JwtService.characterImage(enemy)"" 
+        class=""{{enemy.status}}""
+    (click)=""sidenav.toggle();"" style=""cursor:pointer""&gt;
+</code></pre>
+
+<p>How I can change this img <code>src</code> asttribute from my components <code>.ts</code> file?</p>
+",4
+"VBA - Print function selecting wrong Type of Change option   I have code below for a print function created in VBA. When I select Return from leave under the drop down of the Type of Change field and print, it prints as a salary change type, not return from leave. I cant see where I went wrong in my code or what is causing the issue... Any thoughts? Thanks in advance![![][1]][1]
+  
+    Sub pcf_print()
+    
+    Dim ws As Worksheet
+    Dim datasheet As Worksheet
+    Dim fs As Object
+    Dim str As String
+    Dim bool As Boolean
+
+    If Len(ActiveSheet.Name) < 3 Then
+        MsgBox ""This worksheet is not a PCF""
+        Exit Sub
+    End If
+    
+    If Left(ActiveSheet.Name, 3) <> ""PCF"" Then
+        MsgBox ""This worksheet is not a PCF""
+        Exit Sub
+    End If
+    
+    'MsgBox Right(ActiveSheet.Name, Len(ActiveSheet.Name) - 1 - InStr(ActiveSheet.Name, "" v"")) 'Right(ActiveSheet.Name, 4)
+    If InStr(ActiveSheet.Name, "" vv"") Then
+        If (CDbl(Right(ActiveSheet.Name, Len(ActiveSheet.Name) - 1 - InStr(ActiveSheet.Name, "" vv"") - 1)) >= 1.2 And (ActiveSheet.Range(""F10"") = ""(select)"" Or ActiveSheet.Range(""F10"") = """" Or ActiveSheet.Range(""F10"") = ""(sélect.)"")) Then
+            MsgBox ""This form has not been completed""
+            Exit Sub
+        End If
+    Else
+        If (CDbl(Right(ActiveSheet.Name, Len(ActiveSheet.Name) - 1 - InStr(ActiveSheet.Name, "" v""))) < 1.2 And (ActiveSheet.Range(""F9"") = ""(select)"" Or ActiveSheet.Range(""F9"") = """")) Or (CDbl(Right(ActiveSheet.Name, Len(ActiveSheet.Name) - 1 - InStr(ActiveSheet.Name, "" v""))) >= 1.2 And (ActiveSheet.Range(""F10"") = ""(select)"" Or ActiveSheet.Range(""F10"") = """" Or ActiveSheet.Range(""F10"") = ""(sélect.)"")) Then
+            MsgBox ""This form has not been completed""
+            Exit Sub
+        End If
+    End If
+    
+    Set datasheet = ActiveSheet
+    
+    If ActiveWorkbook.Worksheets(""Form Lists"").Range(""CorpOrStore"") = ""Corp"" Then
+        str = ""Corporate""
+    Else
+        str = ""Stores""
+    End If
+    
+    Set fs = CreateObject(""Scripting.FileSystemObject"")
+    
+    bool = fs.FolderExists(""H:\HR\Online PCF Archive\"" & str & ""\"" & Trim(datasheet.Range(""StoreDeptResult"")) & ""\"")
+       
+    If Not bool Then
+        MkDir ""H:\HR\Online PCF Archive\"" & str & ""\"" & Trim(datasheet.Range(""StoreDeptResult"")) & ""\""
+    End If
+    
+    If InStr(ActiveSheet.Name, "" vv"") Then
+        If CDbl(Right(ActiveSheet.Name, Len(ActiveSheet.Name) - 1 - InStr(ActiveSheet.Name, "" vv"") - 1)) >= 1.2 Then
+            ActiveWorkbook.SaveAs ""H:\HR\Online PCF Archive\"" & str & ""\"" & Trim(datasheet.Range(""StoreDeptResult"")) & ""\"" & Replace(datasheet.Range(""F10""), ""/"", ""_"") & "" for "" & datasheet.Range(""J17"") & "", "" & datasheet.Range(""F17"") & "" effective "" & Month(datasheet.Range(""F12"")) & ""-"" & Day(datasheet.Range(""F12"")) & ""-"" & Year(datasheet.Range(""F12"")) & "".xls""
+        End If
+    Else
+        If CDbl(Right(ActiveSheet.Name, Len(ActiveSheet.Name) - 1 - InStr(ActiveSheet.Name, "" v""))) >= 1.2 Then
+            ActiveWorkbook.SaveAs ""H:\HR\Online PCF Archive\"" & str & ""\"" & Trim(datasheet.Range(""StoreDeptResult"")) & ""\"" & Replace(datasheet.Range(""F10""), ""/"", ""_"") & "" for "" & datasheet.Range(""J17"") & "", "" & datasheet.Range(""F17"") & "" effective "" & Month(datasheet.Range(""F12"")) & ""-"" & Day(datasheet.Range(""F12"")) & ""-"" & Year(datasheet.Range(""F12"")) & "".xls""
+        Else
+            ActiveWorkbook.SaveAs ""H:\HR\Online PCF Archive\"" & str & ""\"" & Trim(datasheet.Range(""StoreDeptResult"")) & ""\"" & datasheet.Range(""F9"") & "" for "" & datasheet.Range(""J16"") & "", "" & datasheet.Range(""F16"") & "" effective "" & Month(datasheet.Range(""F11"")) & ""-"" & Day(datasheet.Range(""F11"")) & ""-"" & Year(datasheet.Range(""F11"")) & "".xls""
+        End If
+    End If
+        
+    Set ws = ActiveWorkbook.Worksheets(""Payroll Forms"")
+    
+    If Right(ActiveSheet.Name, 5) = ""v1.20"" Then
+        ActiveWorkbook.Worksheets(""Form Lists"").Unprotect ""0nl1n3""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B8"") = ""A1:G76""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B9"") = ""A80:G157""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B10"") = ""A160:G225""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B11"") = ""A228:G259""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B12"") = ""A228:G259""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B13"") = ""A228:G259""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B14"") = ""A263:G338""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B15"") = ""A263:G338""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B16"") = ""A343:G367""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B17"") = ""A263:G338""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B18"") = ""A160:G225""
+        ActiveWorkbook.Worksheets(""Form Lists"").Range(""B19"") = ""A370:G420""
+        ActiveWorkbook.Worksheets(""Form Lists"").Protect ""0nl1n3""
+    End If
+    
+    If Right(ActiveSheet.Name, 5) = ""v1.20"" Or Right(ActiveSheet.Name, 5) = ""v1.21"" Or str = ""Corporate"" Then
+        ws.PageSetup.PrintArea = ActiveWorkbook.Worksheets(""Form Lists"").Range(""H2"")
+    Else
+        ws.PageSetup.PrintArea = ActiveWorkbook.Worksheets(""Form Lists"").Range(""i2"")
+    End If
+    
+    ActiveWorkbook.Unprotect ""0nl1n3""
+    ws.Visible = xlSheetVisible
+    ws.PrintOut
+    ws.Visible = xlSheetHidden
+    ActiveWorkbook.Protect ""0nl1n3""
+    
+    ActiveWorkbook.Close False
+    
+End Sub
+
+
+  [1]: https://i.stack.imgur.com/iFZbg.png",4
+"VS2015: Compiling doesn't work? The visual studio I use displays ' cannot start debugging bcuz the debug target is missing. Pls build the project and retry, or set the outputpath and AssemblyName appropriately to point at the correct location for the target assembly'.
+Am new to programming, n I can't seem 2 understand what this means.Thanks 4 assisting me",4
+"Issue to make click on <a> tag in funcional test with selenium i am to make a functional test and i need to make click on `<a>` tag, but i try some ways and really i don't know, i try with the commands in this url 
+https://saucelabs.com/resources/articles/the-selenium-2018click2019-command, nothing has worked, if somebody can help me , i would apreciate it. Thanks.
+
+import time
+from selenium import webdriver
+from unittest import TestCase
+
+#driver = webdriver.Chrome('/path/to/chromedriver')  # Optional argument, if not specified will search path.
+class GoToLogin(TestCase):
+    
+    driver = webdriver.Firefox()
+    driver.get('http://192.168.56.101:8000/login/');
+    #time.sleep(5) # Let the user actually see something!
+    user_field = driver.find_element_by_id('id_username')
+    user_field.send_keys('lruedc')
+    
+    password_field = driver.find_element_by_id('id_password')
+    password_field.send_keys('lejoruca123')
+
+    button_field = driver.find_element_by_id('btnlogin')
+    button_field.click()
+    
+    #time.sleep(5) # Let the user actually see something!
+    user_field.submit()
+    self.driver.quit()",4
+"c# intialize static variable from different class I am doing this
+
+    public static class IDs{
+    
+       public static string someID{ get; set; }
+    
+        static IDs(){
+           log.info(someID);
+               //use someID here
+         }
+    }
+    
+    pulic class otherClass{
+         
+         public otherMethod(string sym){
+    
+                   IDs.someID = sym;
+                }
+          }
+    
+    public class anotherClass{
+               
+                    //access instance of otherClass in wrp and call otherMethod()
+                   wrp.otherMethod(""someStringSymbol"")
+             }
+
+I dont have any build errors but  `log.info(someID);` is printing `null` . I am expecting it to be `someStringSymbol`
+",4
+"VBScript: Reading and Writing text file when condition are meet I have a text file Sample.txt with that contains thousands of records.
+See below. I have created vbscript that accept input box for the cut-off record. In this example I inputted 10005 as the cut-off record.
+The script will then read all records after the cut-off record, in this case starting at 10006 down to  10010, then write to a new text file with the current date as file name like 20180920.txt
+
+    10000
+    10001
+    10002
+    10003
+    10004
+    10005
+    10006
+    10007
+    10008
+    10009
+    10010
+
+Expected output:
+
+    10006
+    10007
+    10008
+    10009
+    10010",4
+"Integer 0 is found in vector calling for the -1 index? When I initialize a vector:
+
+    std::vector <int> someVec;
+
+and I call:
+
+    std::cout << someVec[-1];
+
+with an arbitrary number of elements, 0 is always returned. Is there someway to get around this? This fault in cpp is messing up my ""sort"" function. Is there anyway to initialize said vector differently in order to return the last element in the vector, rather than 0 which seems to be the default. It seems that any index called outside the range of the vector will result in 0. It isn't wrapped which is baffling me. Thanks for the help, kind stranger!
+
+",4
+"How to write pyspark dataframe to HDFS and then how to read it back into dataframe? <p>I have a very big pyspark dataframe. So I want to perform pre processing on subsets of it and then store them to hdfs. Later I want to read all of them and merge together. Thanks. </p>
+",4
+"Proper way to stop Akka Streams on condition <p>I have been successfully using <a href=""http://doc.akka.io/api/akka/2.4/?_ga=1.140568374.588201913.1464855311#akka.stream.scaladsl.FileIO$"" rel=""noreferrer"">FileIO</a> to stream the contents of a file, compute some transformations for each line and aggregate/reduce the results. </p>
+
+<p>Now I have a pretty specific use case, where I would like to stop the stream when a condition is reached, so that it is not necessary to read the whole file but the process finishes as soon as possible. What is the recommended way to achieve this?</p>
+",4
+"HTACCESS blocking images Im working on a project and i want the links to be rewritten without my images not loading up on the index.
+
+My .HTACCESS file
+
+    RewriteEngine On
+    
+    RewriteRule ^(|/)$ index.php?url=$1
+    RewriteRule ^([a-zA-Z0-9_-]+)(|/)$ index.php?url=$1
+    RewriteRule ^([^/]+)/([^/]+)$ index.php?url=$1&page=$2 [NC,L]
+    RewriteEngine on
+    RewriteRule ^(.*)\.htm$ $1.php [NC]
+
+
+It cant pull a image from 127.0.0.1/ase/ts/",4
+"Is canva website used Backbone js..? <p>I am going to do a web app which is relatively same as <a href=""https://www.canva.com/"" rel=""nofollow noreferrer"">canva</a>. I am very eager to know which js framework they used.</p>
+
+<h2>My question:</h2>
+
+<p>They used Backbone js..?</p>
+
+<ul>
+<li><p>If yes, why they used for it..? </p></li>
+<li><p>If no, what js they used..?</p></li>
+</ul>
+
+<p>I searched for the js framework they used in their <a href=""https://engineering.canva.com/2015/10/01/tech-talks-august-2015/"" rel=""nofollow noreferrer"">canva engineering site</a>, but can't able to retrieve the details.</p>
+",4
+"Error while using Intent Extras <p>I am using an app where initially , there is a intro screen which runs only when the app is started for the first time. At the last slide , I have two buttons namely signInAsCustomer and signInAsSeller . Both the intents take you to the same activity , but passes two different intent extras . signInAsCustomer passes extra with key ""type"" and value ""customer"" while signInAsSeler passes an extra with key ""type"" and value ""seller"" . When the second activity is started  , I get the extra and depending on the extra , I set some text in a specific text view. The code for the SignInActivity is below.</p>
+
+<p><strong>SignInActivity</strong></p>
+
+<pre><code>private String type;
+private TextView tv_seller_or_customer , forgot_password , guest_login ;
+private EditText email , password ;
+private Button login , signUp;
+private FirebaseAuth mAuth;
+private FirebaseAuth.AuthStateListener mAuthStateListener;
+
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_sign_in);
+
+    // Initialising Firebase Auth Object
+    mAuth = FirebaseAuth.getInstance();
+
+    // This is the Auth state listener .  It checks if the user is aldready signed In or not
+    mAuthStateListener = new FirebaseAuth.AuthStateListener() {
+        @Override
+        public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
+            FirebaseUser user = firebaseAuth.getCurrentUser();
+            if (user != null)
+            {
+                // User is signed in
+                // Goes to a new activity
+                Intent i = new Intent(SignInActivity.this , MainActivity.class);
+                startActivity(i);
+            }else
+            {
+                // User is signed out
+                // Shows sign in page to the user
+                signInUser();
+            }
+        }
+    };
+
+
+}
+
+@Override
+protected void onResume() {
+    super.onResume();
+    mAuth.addAuthStateListener(mAuthStateListener);
+}
+
+@Override
+protected void onPause() {
+    super.onPause();
+    if (mAuthStateListener != null)
+    {
+        mAuth.removeAuthStateListener(mAuthStateListener);
+    }
+}
+
+public void signInUser()
+{
+    // This method initialises all the views in the signInPage
+    initialiseViews();
+    // Getting the intent extras and changing the activity depending upon the button pressed in the Intro Slider
+   Intent i = getIntent();
+    if (i != null) {
+        type = i.getStringExtra(""type"");
+        if (type.equals(""seller"")) {
+            tv_seller_or_customer.setText(""Seller"");
+            initialiseViews();
+            guest_login.setVisibility(View.GONE);
+        } else {
+            tv_seller_or_customer.setText(""Customer"");
+            initialiseViews();
+        }
+    }else
+    {
+        tv_seller_or_customer.setVisibility(View.GONE);
+    }
+
+    // Listener for loging in 
+    login.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            String emailString = email.getText().toString();
+            String passwordString = password.getText().toString().trim();
+            if (!Is_Valid_Email(emailString))
+            {
+                Toast.makeText(SignInActivity.this , ""Please enter a valid Email ID"", Toast.LENGTH_SHORT).show();
+            }else {
+                loginUser(emailString , passwordString);
+            }
+        }
+    });
+
+}
+
+public boolean Is_Valid_Email(String email_check) {
+    return !email_check.isEmpty() &amp;&amp; isEmailValid(email_check);
+}
+
+boolean isEmailValid(CharSequence email) {
+    return android.util.Patterns.EMAIL_ADDRESS.matcher(email)
+            .matches();
+}
+
+public void loginUser(String emailLogin , String passwordLogin)
+{
+    mAuth.signInWithEmailAndPassword(emailLogin , passwordLogin)
+            .addOnCompleteListener(this, new OnCompleteListener&lt;AuthResult&gt;() {
+                @Override
+                public void onComplete(@NonNull Task&lt;AuthResult&gt; task) {
+                    if (!task.isSuccessful())
+                    {
+                        Log.w(""sign in"", ""Failed"" , task.getException());
+                    }else
+                    {
+                        Intent i = new Intent(SignInActivity.this , MainActivity.class);
+                        startActivity(i);
+                    }
+
+                }
+            });
+
+}
+
+public void initialiseViews()
+{
+   forgot_password = (TextView) findViewById(R.id.forgotPassword);
+    guest_login = (TextView) findViewById(R.id.guest_tv);
+    email = (EditText) findViewById(R.id.email_edt);
+    password = (EditText) findViewById(R.id.pass_edt);
+    login = (Button) findViewById(R.id.login_button);
+    signUp = (Button) findViewById(R.id.sign_up_btn);
+}}
+</code></pre>
+
+<p>The error I'm getting </p>
+
+<pre><code>    E/AndroidRuntime: FATAL EXCEPTION: main
+              Process: com.example.ankit_pc.pharmahouse, PID: 15750
+              java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference
+                  at com.example.ankit_pc.pharmahouse.SignInActivity.signInUser(SignInActivity.java:78)
+                  at com.example.ankit_pc.pharmahouse.SignInActivity$1.onAuthStateChanged(SignInActivity.java:48)
+                  at com.google.firebase.auth.FirebaseAuth$1.run(Unknown Source)
+                  at android.os.Handler.handleCallback(Handler.java:739)
+                  at android.os.Handler.dispatchMessage(Handler.java:95)
+                  at android.os.Looper.loop(Looper.java:148)
+                  at android.app.ActivityThread.main(ActivityThread.java:7325)
+                  at java.lang.reflect.Method.invoke(Native Method)
+                  at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1230)
+                  at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1120) Application terminated.
+</code></pre>
+
+<p>Where have I gone wrong?</p>
+",4
+"Android app advertising i need some help,plz help me in the below mention question if u can asap  Actually i am developing an android app so(for revenue) i want to know #in_detail 
+  
+1-Which is the best mobile advertising network that give me the highest cpc(cost per click) rates?       
+
+2-What are the factors that affect cpc rates?
+ 
+3-Is there any network which give me fixed cpc rates?
+
+4-Is there any network that do not have any refresh rate(refresh ads on user action(click,swipe etc))?
+
+5-Is there a way through which i can calculate/get the exact earning of each click just after that click?
+
+6-Same question for cpcv(cost per complete view(video ads) and cpm(cost per impression)!
+
+I search a lot about these questions but did'nt get/understand the answers...plzz help mee experienced people!",4
+"why use diffrent date format makes diffrent result in same date? i try to use current date in date formats but when i use diffrent date formats this makes diffrent results..at first i used this code:
+
+    private String getTodayDateString() {
+        Calendar cal = Calendar.getInstance();
+        int month=cal.get(Calendar.MONTH);
+        return Integer.toString(month);
+    }
+
+and this return me 5 for result for month.
+but when i use this code:
+
+    private String getTodayDateString2() {
+        DateFormat dateFormat = new SimpleDateFormat(""yyyy/MM/dd HH:mm:ss"");
+        Calendar cal = Calendar.getInstance();
+        return dateFormat.format(cal.getTime());
+
+    }
+
+function returns me 14/6/2016 and this means month is calculated 6 in this dateformat.why?where is the problem?",4
+"jquery not waiting the confirm messge, it is running all functions I have a multi select Gridview , If a user for example selected 3 rows in the grid : name 1, name2, name3. i should show the user a popup confirm message, are you sure ?. 
+
+the problem in jquery , it doesnt wait the confirm message, it calls all the functions. **what I want is the know the result of the message first then call the functions**
+
+
+    function clickon() 
+    {
+    
+    	var $current = $(""#click_on_confirm""); 
+    	var gridId = $(""#Grid_id"");
+    	var confirmedArr = new Array;
+    	confirmedArr = gridId.jqGrid('getGridParam','selarrrow');
+    	var n=0;
+    	var i = 0;
+    
+    	
+    	var arrayLength = confirmedArr .length;
+    	var user_id;	
+    	
+   	
+    		if($current.is("":checked""))
+            {
+            var confirmMsg = ""Are you sure ""+ confirmedArr [i]
+				console.log(user_id);
+				
+			// my problem is here , its not waiting till i click the confirm message	
+				_showConfirmMsg(confirmMsg, """"Are you sure ?"", function(confirmChoice, theArgs)
+				{
+				user_id = confirmedArr[i];
+         i++;
+         }
+ confirm(confirmedArr);
+        }
+
+
+
+    function confirm(confirmedArr)
+    {
+
+    var gridId = $(""#Grid_id"");
+    	
+    		var actionSrc = jQuery.contextPath+"".............."";
+    		_showProgressBar(true);
+	
+		var param=""arUser=""+confirmedArr;
+	   	 $.ajax({
+						 url: actionSrc,
+				         type:""post"",
+						 dataType:""json"",
+						 data: param,
+						 success: function(data)
+						 {
+						  if(typeof data[""_error""] == ""undefined"" || data[""_error""] == null)
+							  {		
+	// something to do
+							  }
+						  _showProgressBar(false);
+						 }
+				    });
+     }",4
+"cannot load png files with webpack, unexpected character <p>Im trying to reconfigure my webpack, and now i cannot load the css files. i keep my styles in src > styles > main.css</p>
+
+<p>I am getting errors such as </p>
+
+<pre><code>ERROR in ./src/images/NavIcon03.png
+Module build failed: SyntaxError: /Users/myname/work/site/src/images/NavIcon03.png: Unexpected character '�' (1:0) 
+</code></pre>
+
+<p>Here is my webpack configuration</p>
+
+<pre><code>var webpack = require('webpack')
+
+
+module.exports = {
+  entry: [
+    './src/main.js'
+  ],
+  output: {
+    path: __dirname,
+    publicPath: '/',
+    filename: 'bundle.js'
+  },
+  module: {
+    loaders: [{
+      exclude: /node_modules/,
+      loader: 'babel'
+    },
+        {
+          test: /\.css$/, // Only .css files
+          loader: 'style!css' // Run both loaders
+        }]
+  },
+  resolve: {
+    extensions: ['', '.js', '.jsx']
+  },
+  devServer: {
+    contentBase: './'
+  }
+};
+</code></pre>
+
+<p>Below is the package.json</p>
+
+<pre><code>{
+  ""name"": ""website"",
+  ""version"": ""0.0.1"",
+  ""dependencies"": {
+    ""ampersand-app"": ""^1.0.4"",
+    ""ampersand-model"": ""^5.0.3"",
+    ""ampersand-react-mixin"": ""^0.1.3"",
+    ""ampersand-rest-collection"": ""^4.0.0"",
+    ""ampersand-router"": ""^3.0.2"",
+    ""asynquence"": ""^0.8.2"",
+    ""autoprefixer"": ""^5.2.0"",
+    ""autoprefixer-core"": ""^5.2.0"",
+    ""autoprefixer-stylus"": ""^0.7.0"",
+    ""axios"": ""^0.9.1"",
+    ""babel"": ""^5.5.8"",
+    ""babel-core"": ""^5.5.8"",
+    ""babel-loader"": ""^5.1.4"",
+    ""bootstrap"": ""^3.3.6"",
+    ""bootstrap-webpack"": ""0.0.5"",
+    ""css-loader"": ""^0.15.1"",
+    ""d3"": ""^3.5.12"",
+    ""file-loader"": ""^0.8.4"",
+    ""font-awesome"": ""^4.5.0"",
+    ""google-map-react"": ""^0.9.3"",
+    ""history"": ""^1.17.0"",
+    ""hjs-webpack"": ""^2.6.0"",
+    ""json-loader"": ""^0.5.2"",
+    ""local-links"": ""^1.4.0"",
+    ""lodash"": ""^4.3.0"",
+    ""lodash.assign"": ""^3.2.0"",
+    ""lodash.has"": ""^3.2.1"",
+    ""lodash.merge"": ""^3.3.1"",
+    ""lodash.pick"": ""^3.1.0"",
+    ""lodash.result"": ""^3.1.2"",
+    ""milliseconds"": ""^1.0.3"",
+    ""moment"": ""^2.11.1"",
+    ""node-libs-browser"": ""^0.5.2"",
+    ""object-assign"": ""^4.0.1"",
+    ""octicons"": ""^2.2.0"",
+    ""postcss-loader"": ""^0.5.0"",
+    ""qs"": ""^3.1.0"",
+    ""react"": ""^0.14.6"",
+    ""react-avatar-editor"": ""^3.2.0"",
+    ""react-bootstrap"": ""*"",
+    ""react-bootstrap-table"": ""^1.3.3"",
+    ""react-bootstrap-validation"": ""^0.1.11"",
+    ""react-cropper"": ""^0.6.0"",
+    ""react-d3-components"": ""^0.6.0"",
+    ""react-dom"": ""^0.14.6"",
+    ""react-dropzone"": ""^3.3.0"",
+    ""react-dropzone-component"": ""^0.8.1"",
+    ""react-facebook-login"": ""^2.0.3"",
+    ""react-fileupload"": ""^1.1.3"",
+    ""react-google-maps"": ""^4.7.1"",
+    ""react-hot-loader"": ""^1.3.0"",
+    ""react-input-slider"": ""^1.5.0"",
+    ""react-redux"": ""^4.4.0"",
+    ""react-router"": ""^2.0.0"",
+    ""react-select"": ""^1.0.0-beta8"",
+    ""react-star-rating-component"": ""^0.1.0"",
+    ""redux"": ""^3.3.1"",
+    ""redux-promise"": ""^0.5.1"",
+    ""slugger"": ""^1.0.0"",
+    ""standard"": ""^4.3.1"",
+    ""style-loader"": ""^0.12.3"",
+    ""stylus-loader"": ""^1.2.1"",
+    ""surge"": ""^0.14.2"",
+    ""url-loader"": ""^0.5.6"",
+    ""webpack"": ""^1.9.11"",
+    ""webpack-dev-server"": ""^1.9.0"",
+    ""xhr"": ""^2.0.2"",
+    ""yeticss"": ""^6.0.7""
+  },
+  ""license"": """",
+  ""private"": true,
+  ""scripts"": {
+    ""build"": ""webpack"",
+    ""deploy"": ""surge -p public -d labelr.surge.sh"",
+    ""start"": ""webpack-dev-server"",
+    ""yolo"": ""git add --all &amp;&amp; git commit -am \""$(date)\"" &amp;&amp; npm version minor &amp;&amp; git push origin master --tags &amp;&amp; npm run build &amp;&amp; npm run deploy""
+  },
+  ""devDependencies"": {
+    ""babel-preset-react"": ""^6.5.0"",
+    ""css-loader"": ""^0.15.6"",
+    ""redux-devtools"": ""^3.1.1"",
+    ""style-loader"": ""^0.12.4""
+  }
+}
+</code></pre>
+",4
+"How can I intentionally make my toilet make this noise? <p>For Halloween I want to haunt my toilets and have them make the noise heard here: <a href=""https://www.youtube.com/watch?v=6S0zewtkqso"" rel=""nofollow"">https://www.youtube.com/watch?v=6S0zewtkqso</a></p>
+
+<p>How can I do that?</p>
+
+<p>I think I would just need to cut a slit in a rubber part of the fill valve.</p>
+",2
+"How do you get a Price Pfister tub spout off? Does it use a set screw underneath? <p>I am trying to remove a Price Pfister tub spout. I can not see a set screw underneath (used flashlight and mirror). I've tried turning it counter clockwise only to bend the end of the spout where the screwdriver pushed against it. Any advice?</p>
+",2
+"How do I fix the cracks in my brick foundation? <p>I have some cracks in the foundation of the house I am about to buy. The house is 100 years old, there doesn't seem to be water leaks. The cracks don't look to be offset.
+Attached is the picture (sorry for the quality, I got it from inspector). This is townhouse and there are two houses on the sides which I believe are touching my foundation on the outside.</p>
+
+<p><img src=""http://i.stack.imgur.com/71oKZ.png"" alt=""enter image description here""></p>
+
+<p>The question is - how hard is it to fix the cracks? Can I do it myself and if I can - what literature would you recommend? 
+The guy who inspected the house said the cracks don't seem to be dangerous since they are not too wide and there is no staggering. </p>
+",2
+"Costruction specs for cabin <p>Building a simple cabin 20 x 30 feet single story with gable roof. What size should the ceiling joists and roof rafters be? Roof rafters run across the 20' span.</p>
+",2
+"Steel basement columns have rusted and split open <p><a href=""http://i.stack.imgur.com/XFcYp.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/XFcYp.jpg"" alt=""enter image description here""></a></p>
+
+<p>I have basement columns that have rusted and split open. Do you think I need replace them? Thanks!</p>
+
+<p>Thanks a lot for the quick answer, there are five columns in my basement and three of them had split open. the other two had little rust. basement is dry and no crackles on the floor at all. Seems to me it is the concrete inside the column attract some moisture and the column start rust from inside first. I think I need have someone replace at least three of them.Anyone have idea how much it cost? Also since those columns support the beam.I am little worried if the new column install little different. will the upstairs wall crack little bit since the shape of the support beam may change little bit?</p>
+",2
+"Can I add cement glue and sand into my concrete mix to repair my cenent garden statue? <p>I have a leopard concrete garden statue that was given to me by my neighbor that has a broken foot and log. I want to repair it and paint it. It also has been weather eroded so I need to recover it as well. I was wondering if I could mix up concrete, add sand and concrete glue in the mix? I know I will have to put concrete glue to the top of the statue to help bond the mix to it. I hope someone can answer my question.</p>
+",2
+"How do I remove a stuck moen 1224 cartridge <p>How do you remove a stuck moen 1224 cartridge? My shower is a two handled moen chateau installed in 1994. Getting the collar of the cartridge was no problem. However, the cartridge won't budge. I don't have a puller but have tried needle-nose vice grips, wd 40 and channel locks with no luck.
+Thanks</p>
+",2
+"Run a fluorescent fixture with fewer lamps? <p>I have some 3-lamp recessed fluorescent fixtures that are too bright. Can I remove one of the tubes and run them just with two lamps? Will that hurt the ballast or the remaining tubes? These are T8 electronic ballasts, not the old magnetic ones, if that matters.</p>
+",2
+"PVC glue fumes in pipeyste <p>So I installed the PVC DWV lines for a wet bar and I put a temporary cap where the P-trap would go as the drywall isn't installed yet.  I took the cap off recently and I got a big whiff of that strong primer/glue smell.  It went away after that, but I tried it again later and the same thing happened. </p>
+
+<p>How concerned should I be given that the warnings on the labels talk about how the fumes could be explosive?  It makes sense that the fumes would be trapped in the pipes as some of the glue will inadvertently get pushed into the pipe at sealing time. </p>
+",2
+"Restaining a deck after scraping, prime with oil base? <p>We have scraped and washed our large older pressure treated deck which had originally had an oil based semi transparent stain, but now has a latex solid stain. We have always followed our paint stores advice to stain the scraped areas with an oil based primer and then do entire deck with solid acrylic stain (both Cabot). Is this still the best? I have some primer and lots of the solid stain.</p>
+",2
+"Can a washer and dryer be next to a water heater? <p>I have a GE gas dryer (DSXH47GGWW) that is currently next to an exterior basement wall.  I'd like to move it to the opposite wall (shared with the crawl space) right next to the water heater next to which is the hot water furnace both of which are also on gas.</p>
+
+<p>However the <a href=""http://products.geappliances.com/MarketingObjectRetrieval/Dispatcher?RequestType=PDF&amp;Name=49-90381.pdf"" rel=""nofollow"">installation guide</a> says:</p>
+
+<blockquote>
+  <p>2.No other fuel burning appliance shall be installed in the same closet
+  as the GAS DRYER.</p>
+</blockquote>
+
+<p>I don't have them in a closet; I'm planning to create a room in the basement but my appliances would be outside of that so ventilation should be plenty.</p>
+
+<p>Is this reasonable to do?  What are the reasons for not placing fuel burning appliances next to each other (I already got two)?</p>
+",2
+"What should I look for when choosing a stud finder? <p>Stud finders are notoriously unreliable at finding studs; some will indicate a <a href=""http://xkcd.com/952/"" rel=""nofollow"">""rapidly shifting network of hundreds and hundreds of studs""</a>.  Is there a way to determine before purchase that a particular stud finder will be more accurately named than most?</p>
+
+<p>Are there certain types of walls for which certain types of stud finders don't work?</p>
+",2
+"Why does my ceiling fan pop and sizzle at one speed setting but works fine at another? <p>My ceiling fan that has been installed for 11 years will pop 1 time when I turn it on. Yesterday it popped when I turned it on then a few minutes later it started to make a sizzling noise followed by a burnt smell. It stopped turning but came back on a few minutes later when I pulled the chain to a slower speed. </p>
+
+<p>Is the fan safe to operate? What should I check for?</p>
+",2
+"HVAC - Circuit Board Fuse blows on AC Switch <p>I have a Honeywell System. Back in November of 2014, I replaced the Circuit Board with one by Honeywell from Amazon (1014460). The blower motor was replaced over 2 years ago. Last month, I have replaced the Transformer. (No part # available at time of writing). I also replaced the cap on the board as well. (97F9002). My thermostat is about 5 years old. All caps for my a/c system are no older than 2 years old.</p>
+
+<hr>
+
+<p>When I switch from Heat to AC, my circuit board fuse immediately pops. I am unable to use either until the fuse is replaced. I haven't tried replacing the circuit board fuse and putting it on AC to see if the AC would kick on that way. However, I haven't been able to determine why the fuse keeps blowing. Nothing was replaced last year and it worked great during the summer. </p>
+
+<p>Any suggestions to try for troubleshooting? (See below for another suggestion)</p>
+
+<hr>
+
+<p>Research: All the research I have found regarding my issue tends to be the other way around. People seem to have the issue with AC to Heat. However, I want to test to see if it is my thermostat as that has been suggested to others. How would I test if that is a possibility? </p>
+
+<p>Edit: <img src=""http://i.stack.imgur.com/kq3kz.jpg"" alt=""Schemes"">
+BRAND ICP
+Model N8MPNO75B12A1</p>
+
+<p>Transformer 44504 jard 4031f</p>
+",2
+"Is it OK to have a gas water heater in a bedroom closet? <p>I have a laundry room with a gas water heater in the closet.  I was thinking about taking out the washer and dryer and renting the laundry room as a bedroom because there is a bathroom next to the laundry room.  The water heater is vented to the outside and it is in a closet, would it be OK to use the room as a bedroom? I am in California.</p>
+",2
+"new laminate flooring over existing hardwood, what underlayment should be used? <p>We're redoing the flooring in the whole house. We have existing hardwood which is in decent shape. a few scratches here or there that could probably be fixed. No buckling or anything. Maybe one or two spots where it feels like the floor should be nailed down again where a plank or two is loose. No noticeable squeaks or anything.</p>
+
+<p>Pretty sure the hardwood is original to the house which means it was installed about 70 years ago. There are planks about 2 inches wide and then some that are around 4 inches. From what i can see, it looks like there's no underlayment under the existing hardwood and it was just nailed on top of the wooden subfloor. The only place that is different is the kitchen. Flooring in there had to be removed so it's down to just the bare wooden subfloor.</p>
+
+<p>We're going with a laminate wood floor from republic floor. Contractor picked up 3mm underlayment. I don't really know much about underlayment, or installing floors in general. Just wanted to know if there's anything specific i should look out for while they do the install and if 3mm underlayment is ok or if i should get something different. Or anything else I should do/look out for/make sure is done etc.</p>
+
+<p>Thanks</p>
+",2
+"How to Hook Up 120V & 240V On AC Disconnect? <p>I'm attempting to wire a RV for hooking up to 50 Amp Service. </p>
+
+<p>Using a AC Diconnect (60-Amp 240-Volt 240-Watt Fused )connected to a</p>
+
+<p><a href=""http://i.stack.imgur.com/oh1Up.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/oh1Up.jpg"" alt=""125 Amp""></a>
+(PowerMark Gold 125-Amp 4-Space 8-Circuit Indoor Main Lug Circuit Breaker Panel)</p>
+
+<p>My concern is that the AC Disconnect does not have a Lug for Neutral. </p>
+
+<p>Would it be okay to run the Nuetral straight from the RV Plug to the 125 Amp Panel ?</p>
+
+<p>I cant afford an electrician at the moment and have been taking advice from Home Depot employees so I would greatly appreciate some oversight </p>
+
+<p>This is what I was told to do by HD 
+<a href=""http://i.stack.imgur.com/SwAWb.jpg"" rel=""nofollow""><img src=""http://i.stack.imgur.com/SwAWb.jpg"" alt=""QUESTION""></a></p>
+",2
+"What wire and conduit is required for an attached-garage subpanel? <p>To make my garage more usable as a workshop, I'm planning to add a subpanel which can feed a number of additional outlets. 60 amps would be plenty for my current needs, but I'd like to go with 100 so I have the option to add an electric heater, or possibly a welder.</p>
+
+<p>My garage is attached and I've found a path for the feeders that is about 40' long. What I've found so far leads me to believe I need #3 copper THHN wires, plus a #8 ground. Does that sound right?</p>
+
+<p>I've also gleaned that these need to be enclosed in conduit, but I'm having a harder time nailing down the specifics for that. I'm thinking plastic conduit would be easiest for me to work with, but do I need a specific type? Also, it will be routed out through the rim joist into the exterior garage wall built with 2x4s, so max hole size is 1.4"".</p>
+",2
+"Using Window AC as Wall AC <p>I just moved into a new apartment and they have a 25""x 15"" pre-built wall sleeve for a wall AC unit. Not knowing the difference, I purchased the extravagantly less expensive window AC unit that has exhausts on the side and on the back. Realizing this, I figured that (with some internet searching) the unit may heat up because it isn't exhausting properly. If I have 1"" on each side of the AC in the wall sleeve, is it good enough for exhaustive purposes? </p>
+
+<p>Also, what would you do for affordable cooling on a first floor apartment with a 750 ft^2, 2 BR, apartment?  </p>
+",2
+"How should I mount a TV stand on a wall covered in drywall? <p>How should I mount a TV stand on a wall covered in drywall?  Should I <a href=""http://en.wikipedia.org/wiki/Treenail"" rel=""nofollow"">trenail</a> it to the wall?</p>
+",2
+"Is it better to run one large load or multiple small loads to extend life of bearing? <p>I recently replaced the bearing in my whirlpool cabrio top loading washer. I got to thinking and had no idea which would be safer for the bearing. On one end it's a greater load on the washer, but on the other end you are rotating the bearing more times.</p>
+",2
+"Remodel Condo: Where to start and finish <p>I'm preparing to remodel my condo and need an idea of where I should start. This is important because I will be living in the condo as I remodel and cannot do it all at once so to speak. My condo is two stories and each flour has about 450 square feet.</p>
+
+<p>I'm thinking I should start with the main floor first beginning with the downstairs bathroom, then kitchen, then dining/living room. Once that is done I figure I can move my bedroom and office furniture downstairs and begin the upstairs remodel.</p>
+
+<p>What is the best practice; should I have the guts of my condo inspected first? Thanks, any help is appreciated.</p>
+",2
+"What is the proper way to vent a dryer through a crawlspace? <p>I am selling a brick, pier and beam home that has a Dryer in the garage that currently vents into the crawlspace. I had run flex tubing through the crawls space to the crawlspace vent.  The inspector indicated I could not run the tubing to the crawlspace vent because it had a screen on it.</p>
+
+<p>What is the correct way to vent this dryer? Do I need to drill a hole in the brick exterior for the ventilation?</p>
+",2
+"Removing Yellow Bleach stain from laminate counter <p>I had a blue stain on my white laminate vanity.
+picked up some bleach based bathroom cleaning liquid, for a few things.</p>
+
+<p>Thought I would give it a try on the stain on the counter.
+I left it for a few hours.
+It took the blue stain right off.
+However left a much larger yellow one.</p>
+
+<p>Obviously I won't make that mistake again.
+However now I am left with the problem of the yellow stain.</p>
+
+<p>So far I have been removing it with repeated application of vinegar and baking soda.
+It is working, but very slowly (as in I expect to be doing this for many days).</p>
+
+<p>I have read that <a href=""http://ths.gardenweb.com/forums/load/disaster/msg0511201213077.html?18"" rel=""nofollow"">Silver Jewlery Cleaner work</a>s to solve it, does anyone have any experience with using this?</p>
+
+<p>My other option I have been considering is wet-and-dry sand paper.
+I have some very fine stuff, but even so I'm not to happy with the idea.</p>
+",2
+"What type of caulk should I use for bathroom tile? <p>So I have a bathroom that has a tile floor, a small tile baseboard, and a tiled shower that has tile on the walls and floor.</p>
+
+<p>The builder used grout everywhere and so after a while, pretty much all of the grout where the wall meets the floor is cracked.  I started researching and it seems that I should be using caulk at the change in planes.</p>
+
+<p>So I was originally going to use silicone, but then found a mapei siliconized acrylic that color matched my current grout.  Should I be using just that, or silicone, or use that first and put a thin layer of silicone over it? </p>
+",2
+"How can I seal a slate floor for long term protection? <p>I've recently purchased a house in Philadelphia which has a pretty humid basement split into a finished part, and an unfinished (workshop) part. The finished part has a slate floor that seems in reasonable condition, but it is requires some grouting. In a few places there are loose tiles and a few small parts where a layer from the corner of a slate tile has come off.</p>
+
+<p>I suspect the previous owner may not have a performed any recent maintenance or sealing. I'm probably going to get a specialist, but what should I be looking for in terms of products and approaches to sealing this floor? I'd prefer to keep a more natural look. Given the hot and humid weather here in Philly I suspect I'll need to wait until spring or fall to do this work as the basement is my office space.</p>
+",2
+"Multi-home Utillity Alley Potholes - fix it my self or is there someone to call? <p>Ive recently bought a house that has a service alley in the back leading to parking. Its a no outlet alley servicing about 4-6 houses (mostly rented) which is probably why it hasn't been properly maintained.</p>
+
+<p>The potholes are on the verge of being ""tub""holes if youre catching my drift.</p>
+
+<p>Should i fill them with gravel for the time being or is there someone i can call to fix them?</p>
+",2
+"How many lights can be on one breaker? <p>How many lights can be run from one breaker I would like to add two two tube fluorescent lights to a string of lights I have already. </p>
+",2
+"Can I have two storeys in a 16 foot space? <p>I'm in the process of closing on a house that has an unusually large crawlspace underneath the structure. The house is built on a relatively steep hillside and the frame of the house extends to the bottom of the hill below, giving an enclosed crawlspace.</p>
+
+<p>Here's a diagram (with apologies for my MSPaint skills):</p>
+
+<p><img src=""http://i.stack.imgur.com/J8e4G.png"" alt=""Elevation view of the house""></p>
+
+<p>The crawlspace has approximately 4.9m (16.2 feet) of space between the concrete floor and the bottom of the timber frame supporting the ground floor. There are no stilts or other support structures in the main part of the crawlspace though there are in the other half.</p>
+
+<p>Here's a photo on the inside:</p>
+
+<p><img src=""http://i.stack.imgur.com/tCN8U.jpg"" alt=""Photo showing the crawlspace""></p>
+
+<p>I would like to have this basement finished by adding an internal staircase from the ground floor down to this area. I would like to split this space into two floors. I understand that each floor must have at least 7 feet of headroom, and I assume you'd want a foot of space between the two floors and plus another foot to account for space from the ceiling below the ground floor and the bottom floor's carpeting. That's 7+7+1+1 == 16 feet. So far so good, right?</p>
+
+<p>During the house inspection, I asked the inspector how possible it would be to do the conversion and he said it would be impossible as you need at least 10 feet per floor, so the house is 4 feet too short to convert the crawlspace into two floors. He was also pessimistic about installing rooms (such as a toilet room or a small bedroom) on the area currently covered in black tarp. He said that converting the main area of the crawlspace (with the flat floor) is definitely possible, but I'd probably only be able to have a smaller area (with a 5 or 6-foot high ceiling, maybe) underneath the finished room suitable only as a storage area.</p>
+
+<p>With references to suitable building regs and whatnot, is my inspector correct in saying I can only have 1 fully-finished floor, or can I still have two finished floors/storeys in the space?</p>
+
+<p>This is in King County, WA. If that helps.</p>
+",2
+"Can a built-in grill sit on granite, or does it need to be in a stainless steel jacket? <p>I bought a <a href=""http://rads.stackoverflow.com/amzn/click/B0070U0KIK"" rel=""nofollow"">built-in grill</a> for my outdoor kitchen, and I'm scratching my head now that it is time to install it. I have read that it is important not to set the grill up on flammable materials, that make sense, but does it need to be one of those SS jackets? I was thinking about having the countertop guy install granite all the way around, would that work if it sat on granite?</p>
+
+<p>Also, how critical is it to have ventilation ports around the grill? I didn't know I ""needed"" them until they were briefly mentioned in the manual, not sure if they are essential, or nice to have.</p>
+",2
+"How will a granite countertop on a floating island affect the laminate floor it sits on? <p>We are looking at upgrading our countertops to granite.  We have a floating laminate floor under a movable island that we don't wish to anchor.  The island would have a 40""x50"" top surface.  How does the weight of the granite affect the floor?</p>
+",2
+"Are there any DIY polyurethane foam insulation options available? <p>I recently had a leak (hurricane Sandy) in an ""eave""-like space that required the removal of a part of my drywall ceiling. All of the insulation that was above the ceiling was drenched. To replace it, I was wondering if it would be better to use the poly spray foam insulation instead of the fiberglass stuff. </p>
+
+<p>I've seen ""Great Stuff"" advertised as an insulator, but it doesn't seem like it would cover much surface area.</p>
+
+<p>What are my options here?</p>
+",2
+"How to resolve a crack in the shower floor? <p>My dad did a great job renewing his bathroom, but sadly a crack has appeared on the shower's plastic floor base.</p>
+
+<p>He believes the crack has developed because he installed it on top of wooden beams rather than cement.</p>
+
+<p><strong>Is there a work-around to fix this, or is it a case of ripping it out and starting again?</strong></p>
+
+<p>Here is a picture of the shower (the crack is located underneath where the mat has been placed):</p>
+
+<p><img src=""http://i.stack.imgur.com/vzOAE.jpg"" alt=""Shower image""></p>
+",2
+"Standard duty cycle of fridge compressor? <p>I have a refrigerator which has compressor duty cycle of about 50% percent.</p>
+
+<p>It’s set on 2 out of 5 which is the highest setting. It basically works for 12-13 minutes and then it’s of for about 16 minutes, and then cycle repeats.</p>
+
+<p>Is this OK value?</p>
+
+<p>Quoting <a href=""http://www.kouba-cavallo.com/art/REFRIG7a.pdf"" rel=""nofollow"">Targeting Refrigerators for Repair or Replacement</a>:</p>
+
+<blockquote>
+  <p>One can begin by recognizing two very common characteristics of most refrigerators.
+  Over a broad range of models and vintages, the operating characteristics of properly operating
+  refrigerators under reasonable temperature conditions appear the same. A refrigerator turns on,
+  runs for a while, turns off and is off for a while. It then turns on again and the cycle repeats. A
+  typical,steady-state cycle is about 40 minutes with the duty cycle, or per cent running time, being
+  about 50 percent for standard temperature differences between the food compartment of the
+  refrigerator and the room in which the refrigerator is placed.
+   In other words, a typical, properly
+  operating refrigerator runs about 20 minutes and is off 20 minutes.</p>
+</blockquote>
+",2
+"Refrigerator with newly changed compressor <p>I fixed a new compressor to a refrigerator, changed relay and overload, all I know was compressor over heat and went off. What could have been the cause for this?</p>
+",2
+"When machining a hole, what is the order of operations? <p>I need to drill a threaded, countersunk hole in a piece of material. After drilling, should I use the tap, or the countersink bit first? Does it make a difference? Does it depend on the material?</p>
+",2
+"Proper backfill for a trench dug below foundation level (within the 45 degree cone of support) <p>Given a trench dug below foundation level, what's the proper way to backfill?  Here I'm talking about a trench below the bottom edge of an unreinforced concrete foundation built in 1950, supporting a 2 story stucco house.  The trench is somewhat within the 45 degree soil cone supporting the weight of the house:</p>
+
+<p><img src=""http://i.stack.imgur.com/cQk59.png"" alt=""Drainage trench below foundation""></p>
+
+<p>The foundation itself is about 13 inches high, the trench is 14 inches below that point, set off about 9 inches.  Three pipes are in the trench: solid 2"", 2"" and 1.5"" cellular core ABS.  The soil is a heavy clay.  There is some surface water flow over this area.  The home is in an earthquake hazard zone.  The original soil grade was much higher: reaching the stucco as shown in the diagram (perhaps 25 inches above the current bottom of trench).</p>
+
+<p>What's the proper way to prevent long term settling (or soil loss) below the foundation in this case?  Do you have references?  Thanks.</p>
+",2
+"craftsman shop vac motor stuck on reverse <p>Apparently the motor itself is reversed. It I'd blowing out the top hole.</p>
+
+<p>I cannot find any "" reverse"" switch cm and I doubt it has one. It apparently got switched into reverse somehow and I need to reset it.</p>
+
+<p>It is a Craftsman 9 gallon (red) .</p>
+
+<p>Any advice?</p>
+",2
+"Removing the concrete from the top off a concrete column <p>I have a number of 12"" square concrete piers reinforced with 10 * 16mm rebars. The rebar extends to around 4m tall, while the concrete has been poured to a height of 3.3 metres.</p>
+
+<p>This an error because the intended height of the bottom of the upper floor is 3.3 metres; however, as a 40cm concrete beam is planned to support the upper floor, this means that the height of the poured concrete should only be 2.9m, to allow for a 40cm beam on top.</p>
+
+<p>So I am considering chiselling 40cm of concrete off the top of the pier and placing the rebar there. Does that pose structural concerns for the strength of the pier?</p>
+",2
+"Faucet drip after water shut off <p>We had a plumber out to replace our outside hose bibs.  After turning the water back on, one of our faucets in the house now has a drip.  Its nowhere close to the area that the plumber worked on.  Any reason why it would now drip?  Could it be from the initial pressure of turning the water back on?</p>
+",2
+"What are the hours of operation of the Ankara Metro? <p>What are the times of the first and last trains on the Ankara Metro?</p>
+
+<p>(By ""metro"", I mean both lines, even though I believe technically only one of them has the official title of 'metro'.)</p>
+",3
+"Is it ever a good strategy to not select a seat when you are in unassigned status on American Airlines? <p>So here's my not-so-hypothetical situation. My wife and I are on an American Airlines flight and for the longest leg (~6 hours) there are only ""Premium"" economy seats and crappy (single middle) seats left.</p>
+
+<p>I just got changed to this flight because of a night-before cancellation, so I didn't even have a chance to pick a good seat from the free options despite booking this trip 2 months prior to departure.</p>
+
+<p>So here's my theory that I'm trying to validate/invalidate. If I don't pick a seat and let them assign it at the gate, it seems like the odds improve to get a ""Premium economy"" seat. My reasoning is that if I just pick a crappy middle seat from the remaining free options, that's exactly what I'll get. However, I'm betting that they hold back premium seats hoping to get people to pay for them at the last minute, and they are more likely to be open for people without assignments on a full flight.</p>
+
+<p>Another factor is that my wife and I bought our tickets together, I don't how hard they try to keep people who are flying together (at least couples) seated next to each other, but if they do it would reduce the odds of us getting assigned a single middle seat. </p>
+
+<p>Any insiders with American have thoughts on my theory and whether it increases my odds by not preselecting a seat assignment? Do they give any weight seating couples together on a flight?</p>
+",3
+"Do stateless Green Card holders need schengen visa? <p>I am from the former soviet union, and I have just got my green card after a few years ago.</p>
+
+<p>I am still stateless and have applied for a refugee travel document which may or may not come through.</p>
+
+<p>My question is, if I get my Refugee Travel Document, do I still need a schengen visa?</p>
+
+<p>I just need to go to Germany for about a week for training for my job.</p>
+
+<p>That's all.</p>
+",3
+"Travelling with a non-revenue listing via Delta, I will fly from Manila-Narita-Seattle. Do I need a transit Visa? <p>Travelling with a non-revenue listing via Delta, I will fly from Manila-Narita-Seattle. That said, I will be going from Narita to Seattle as a chance passenger. Do I still need to secure a Transit Visa, when I do not intend to go outside the airport? I am a Filipino citizen.</p>
+",3
+"Schengen visa from Turkey on Pakistani Passport <p>i am visiting Turkey as a tourist for one week on Pakistani Passport, can I apply for Schengen Visa from Turkey while visiting Istanul</p>
+",3
+"Is it true that I should delete search history and cookies when booking flights online? <p>I often hear that you should delete your search history, cookies and if possible change your IP when looking for flights online. The reason is that otherwise airline websites know that you're really interested and will increase prices. From personal experience, I had once the same impression when I first looked for a flights a couple of days in a row and got only high prices. Then I did the same at work with a different computer and got way lower prices. However, this could be a coincidence.</p>
+
+<p>So my question is: Is this just an urban legend or is there really evidence?</p>
+",3
+"Help remembering name of  hotel in near Łódź, Poland? <p>This summer I was in Poland. We drove around by car and visited several small villages. I some help to remember the name of the village and the hotel we stayed in. </p>
+
+<p>I have only some very vague hints:</p>
+
+<p>The village is very near to Lodz. We arrived late in the evening and in Łódź we couldn't find an accommodation. Every hotel, hostel, campsite etc. was full. So we left Łódź in the direction of Oświęcim (Auschwitz). We drove on the highway only a very short time. Then we turned right and arrived in a very small village. But nevertheless it was a relatively luxurious hotel that had a big park and looked relatively new. This hotel is run by a father and son. We didn't stay in this hotel but in another one that was in the next street. The owner of the first hotel recommend this one.</p>
+
+<p>Our hotel was very cheap and had a private parking space. It was necessary to get a key from the reception to open the gate to the parking lot. Almost opponent to this hotel there is a very small store that sells some food. Neither the hotel personal nor the shop owner speaks English.</p>
+
+<p>It was late in the evening and we hadn't anything to eat. So we drove back on the highway and turned in the direction to Oświęcim. After 2 or 3 minutes we saw a restaurant directly at the highway in form of a mill.</p>
+
+<p>That's all I can remember. I would be very happy if someone can identify the village and the hotel.</p>
+",3
+"Where to nap in Chicago O'Hare? <p>I am bracing myself for a rough trip: getting up at 4AM, taking a 3 hour flight, then a 13 hour flight, with a 5.5 hour layover in between.</p>
+
+<p>I can almost never sleep on planes, so this trip would go down smoother if I could get a decent nap during the layover at Chicago O'Hare. What are my options?</p>
+
+<p>I'd be particularly happy if there are any lounges I can pay my way into that have sleep rooms and/or showers. </p>
+
+<p>EDIT: There are showers in one of the two AA Admirals' Clubs, according to <a href=""http://www.loungeguide.net/wiki/u/Chicago_%28ORD%29_American_Airlines_Admirals_Club_%28Concourses_H/K%29"" rel=""nofollow"">these</a> <a href=""http://www.lounges.net/Chicago-%28ORD%29-Airport-Lounges/"" rel=""nofollow"">pages</a>. They also have cell-phone free quiet rooms. If anybody's been in them, I'd love to hear your opinion on how quiet they were, and whether they're good for naps.</p>
+",3
+"Public transport connections to San Francisco after Caltrain stops running <p>Let's say I'm in Mountain View (next to the Caltrain station) and it's 11:00 pm. Or, equivalently, in Palo Alto or Menlo Park, and it's a little past 11. </p>
+
+<p><strong>Is there any way to get to central San Francisco using public transport late in the night?</strong> Or is  a taxi or getting a ride from someone your only option?</p>
+
+<p>(<a href=""http://www.caltrain.com/schedules/weekdaytimetable.html"" rel=""nofollow"">It looks like the last Caltrain</a> leaves at 10:49 pm from Mountain View.)</p>
+",3
+"How do I find cheap flights when I don't care about the date? <p>I more often than not don't really care about travel times, I would happily seek out the cheapest time within a 2-3 month period.</p>
+
+<p>All the online sites I come across give you the option to select a date with a variation of -7/+7 days.</p>
+
+<p>I would like to know if there is a site that will just find me the cheapest prices but that is more relaxed on the date.</p>
+
+<p>I am from the UK, any specific sites are preferred.</p>
+",3
+"Indian national travelling from Kuwait to Dubai by road <p>I am an Indian national, and am currently staying in Kuwait with legal residency.</p>
+
+<p>I want to travel to Dubai by car with my family.</p>
+
+<p>Can you please guide us on the complete procedure with any requirements we might have to meet?</p>
+",3
+"No more open returns? <p>Making enquiries about my coming trip I've been told by two different travel agents that there are no longer open return tickets.</p>
+
+<p>This seems unusual to me. I am certain that people I know have had such tickets in recent years.</p>
+
+<p>Does anyone know the truth of this? Do open returns really no longer exist? Why is this so?</p>
+",3
+"Can I get European-wide traffic predictions similar to the one from Paris? <p>Already in 2004 there exists a really <a href=""http://www.infotrafic.com/route.php?region=IDF"">neat online service</a> that not only gave traffic information but also the chance of getting into a traffic jam. (see screendump below).</p>
+
+<p><img src=""http://i.stack.imgur.com/o10PI.png"" alt=""Traffic jams in Paris""></p>
+
+<p>I really liked this information since it gives you some indication on when it is best to drive in and around Paris. 10 years later the <a href=""http://www.infotrafic.com/route.php?region=IDF#"">IDF website</a>, still exist but I find it hard to find the same information for other regions in Europe. It would be so convenient to have this information for for Example the Benelux and Germany to plan ahead when going on a road-trip. </p>
+
+<p>Am I not searching enough or does these visualizations of traffic information for other regions simply not exist?</p>
+",3
+"Transit fee in londonLHR <p>i have resident visa in Czech republic and my passport is srilanken. i am willing to go srilanka from amsterdam. and my transit will be london LHR. do i need to pay transit visa fee in london ?</p>
+",3
+"Can I dispatch luggage during a connection? <p>I'll be travelling from Cancun with a connection in Atlanta, endpoint is Brazil. I'm allowed to dispatch 2 x 32kg luggage, and my connection in Atlanta will last more or less 10 hours.</p>
+
+<p>I couldn't find any information on the company's site (Delta Airlines).</p>
+
+<p>My question is: can I check one bag (Cancun -> Brazil) and then check another one in Atlanta (Atlanta -> Brazil) ?</p>
+",3
+"Can Bulgarian residents enter the UK without a visa? <p>I am an Egyptian citizen; I am going to marry a Bulgarian girl and I will apply for a family residence permit in Bulgaria. </p>
+
+<p>With Bulgarian residency, will I be allowed to enter the UK without a visa?</p>
+",3
+"US dollars in Jamaica <p>Two questions actually:</p>
+
+<ol>
+<li><p>Are US dollars widely accepted in Jamaica? For example if I'm in a small town buying a pack of gum, would they accept my US dollars?</p></li>
+<li><p>In Jamaica, do they refuse to accept your US dollars, if they don't look brand new and crisp, as is done in certain countries? </p></li>
+</ol>
+",3
+"Is leaving airport at a stop before the final destination illegal? <p>There are tricks such as <a href=""http://hackmytrip.com/2012/01/introduction-to-fuel-dumping/"">""fuel dumping""</a> or <a href=""http://boardingarea.com/blogs/viewfromthewing/2012/01/07/how-to-use-hidden-city-and-throwaway-ticketing-to-save-money-on-airfare/"">""hidden city ticketing""</a> which involve booking a ticket composed of several connecting flights, then leaving the airport at a stop, possibly even ""hopping off"" a plane (intermediate landing). Rationale: Sometimes these tickets are cheaper than a ticket to one of the stops. So one adds an additional leg and discards it.</p>
+
+<p>Some people say that when using such tricks, one enters a <em>legal gray area</em>. But I wonder:</p>
+
+<p><em>Could leaving the airport at a stop really be illegal, i.e. violating an airline's or a travel agency's terms?</em></p>
+
+<p>Also there are suggestions that one should not request an upgrade, because then the trick may be discovered by the airline. Here I wonder:</p>
+
+<p><em>How can they know that one will throw away the last leg?</em></p>
+",3
+"Best 'private' spots for stargazing on Mountain Teide, Tenerife <p>I'm planning travel to Tenerife in the end of May and one of the things which I like to do is do enjoy in a beautiful star scenery. I did some investigation and I concluded the best place is somewhere around the mountain Teide which is far away from resorts and therefore lights. I'll rent a car so getting there is not a problem at all. The real question is, are there any good places around or on Mountain Teide where I can drive on the night and just enjoy the stars (without telescope or similar, I'm pretty sure that I'll be shocked with my eyes also because I never saw too many stars, damn light polluting). </p>
+
+<p>So I'm looking for good spotting places with following:</p>
+
+<ol>
+<li><p>If possible private spots, because I'm planning to go there with my girlfriend and want to have as much romantic mood as I can</p></li>
+<li><p>Reachable by car, because I don't find it relaxing walking too much outside of the road in the middle of the night in the middle of the mountain :) I can do some walking, but not too much :)</p></li>
+</ol>
+
+<p>I saw that there are many stargazing tours, but I'm looking something private for couples where we can just sit somewhere and enjoy the stars without dinner or similar experience which are offered.</p>
+
+<p>Any other advice is welcome and if you have any suggestions just let me know. If you can reference spots on google maps or similar, that would be perfect :)</p>
+",3
+"What is the longest passenger flight (with a flight number) in the world? <p>For example, JQ151 from Sydney to Christchurch is around 3 hours.  NZ1 however, is about another 7 to Hong Kong.</p>
+
+<p>Will need a regular flight number to verify.</p>
+
+<p>Definition is longest in terms of flight time / distance (they should be linked, logically?).</p>
+",3
+"Entering USA as a tourist without any plan <p>My passport is swiss and I am living at Vancouver (with a student Visa valid until 2018) and I have a valid ESTA (until July 2016). Around July 15, I'll be crossing the border (between Vancouver and Seattle) to hitchhike in the USA along the west coast for about 2 weeks or 1 month.</p>
+
+<p>At the moment I'll pass the border, I won't be able to indicate where I'll spend my first night. I won't be able to accurately say how much time I'll spend in the USA. Is it an issue?</p>
+",3
+"how do immigration of some country check your travel history for migration verification? <p>I was in uae from 2008 to 2010 and have unpaid loan. The local bank is not willing to settle at a common ground hence i left it as it is. I had a loan with an international bank which i negotiated and settled without any problem. Anyways my question is, my wife is in australia and she is gonna apply for a partner visa upon her work permit. My uae visa was on my old passport and now i have a new passport which was issued last year. I have clean record in india hence my pcc and character will not be an issue here... What about UAE? I ll certainly not show my old passport to the australian embassy as it has my previous travel details with visa. Will that make any problem for me as they wud expect pcc from uae as well. Please advise.</p>
+",3
+"Does condition 8115 mean you can't check your work email? <p>My parents have just received their visa for their upcoming Australia trips. Among the terms, there's <a href=""http://guidesacts.fahcsia.gov.au/guides_acts/ssg/ssguide-9/ssguide-9.3/ssguide-9.3.1/ssguide-9.3.1.130.html"">condition 8115</a>:</p>
+
+<blockquote>
+  <p>Condition 8115 allows 'business visitor activities' such as general business or government enquiries or negotiations, and attendance at conferences and seminars, but does not allow for work.</p>
+</blockquote>
+
+<p>To my reading, this means that you aren't allowed to do anything else, including:</p>
+
+<ul>
+<li>Checking your work email, or replying</li>
+<li>Connecting to your work network/VPN to download documents and work on them</li>
+<li>Working on work files you've brought in your computers offline</li>
+</ul>
+
+<p>Of course that sounds draconian and/or hard to impossible to enforce, but it could always come in handy as a good excuse to actually enjoy one's vacation time (and rather expensive trip).</p>
+
+<p>Is that reading of condition 8115 correct?</p>
+",3
+"Is there another destination like Thailand? <p>Last summer I stayed 7 weeks in Thailand. It was my first time in the Southeast Asia and it was one of the best trips in my life. It was a backpacker trip with my girlfriend.</p>
+
+<p>So, next summer I want to repeat this trip but in other country in this area (Cambodia, Vietnam, Burma...) The point is which country to choose. The reasons that made this trip exceptional are:</p>
+
+<ol>
+<li>Thailand is very cheap, 10 euros per day are enough most of the days.</li>
+<li>There are off the beaten track places and also touristic areas (we like to combine both).</li>
+<li>Incredible beaches</li>
+<li>A lot of people speak english (easy to comunicate with local people in restaurants, hostels, etc)</li>
+<li>Wide variety of thai food, but also easy to find western food (sometimes we need a burger, some pasta, a sandwich...)</li>
+<li>It's easy and cheap to rent a motorbike (4-5 euros)</li>
+<li>The country is big enough to stay 5-7 weeks </li>
+<li>Friendly native people</li>
+<li>Good sanitation (I feel that if I had a problem I'll be properly treated in a hospital)</li>
+</ol>
+
+<p>Thailand travels, of course, have some points to improve (weather, wild dogs, etc) but we can live with that.</p>
+
+<p>Which country (apart from Thailand) meet most of those criteria?</p>
+",3
+"UK Spouse visa- What are my choices of English language requirements? <p>Hi I am currently on student visa in UK, and in my final year of PhD in UK. The IELTS (academic-has expired two years ago). What are my choices of fulfilling english requirements for Spouse visa?</p>
+
+<p>Than you in advance.</p>
+",3
+"Canada tourist visa online appication <p>I am planning to visit Canada on tourist visa. But I have not yet decided where to stay and what places to visit. In the IMM5257E application form, in the '""Details of Visit to Canada"" section, I am required to give information about the institution which I am going to visit in Canada. </p>
+
+<p>Since I have not decided anything yet, what should I put in that section? </p>
+",3
+"India airports post-immigration xray check purpose? <p>I've noticed that when arriving into India by air, after immigration, and after the passport stamp check to ensure you really did go through immigration, there is some sort of check where all your cabin baggage is xray'd. This is before you get to baggage claim, and before customs.</p>
+
+<p>Cabin bags are xray'd here, and people walk through a metal detector, but jackets don't have to be taken off, nothing has to be taken out of bags before the xray, no-one seems to pay any attention to if the metal detector goes off or not, and bags which have triggered secondary checks elsewhere due to the amount of computers+cables in them sail through.</p>
+
+<p>This makes me wonder - what is the point of this post-immigration pre-customs xray check of bags, and what are they supposed to be checking for?</p>
+",3
+"Do bitcoin Visa debit cards work in India and are they widely accepted? <p>Bitcoin Visa <strong>debit</strong> cards (<a href=""https://bitpay.com/visa/"" rel=""nofollow"">bitpay</a>, <a href=""https://xapo.com/"" rel=""nofollow"">xapo</a>, <a href=""https://cryptopay.me/bitcoin-debit-card"" rel=""nofollow"">cryptopay</a>) offer low foreign exchange fee when paying merchants or getting cash from ATMs. Do such <strong>debit</strong> cards work in India and are they widely accepted?</p>
+",3
+"Thailand Visa on Arrival Duration <p>When I search online I get two conflicting results for how long a visa on arrival is valid for.</p>
+
+<p>I thought it was 30 days based on google searches but am realizing now that it might be from older posts back in 2012 and when I look at other resources like the IATA website it says 15 days. </p>
+
+<p>Anyone know where to find the current official stance on how many days visa is provided via VOA when arriving at one of the itnernational airports in Thailand so I can confirm if 15 or 30 days and plan onward journey accordingly.</p>
+
+<p>Thanks!</p>
+",3
+"Can you bring a standard tube of toothpaste on a plane in a carry-on bag? <p>In the US, the TSA has very specific regulations for what can and can't be brought on a plane in a carry-on bag, especially when it comes to liquids. Can a standard tube of toothpaste be brought on a plane, or does it exceed the limitations? If it is too large, would a half-empty tube be accepted?</p>
+
+<p>What about travel outside the US? Is toothpaste generally allowed on planes?</p>
+",3
+"Transfers between Paris and its airports <p>Paris has 3 airports (Orly, Roissy, Beauvais), what are the options to go to or to come from there?</p>
+
+<p>(There is also Vatry (XCR) but there is very few flights and i see the shuttle system is currently off.)</p>
+",3
+"How to calculate if my battery will be allowed in hand luggage? (Voltage in mAh to Wh conversion) <p>Follow-up question to <a href=""http://travel.stackexchange.com/questions/42411/are-battery-packs-allowed-in-hand-luggage"">Are battery packs allowed in hand luggage?</a></p>
+
+<p>I have a 26,000 mAh battery pack (""Intocircuit Power Castle"") which I want to take on a plane (Royal Air Maroc). Airline battery capacity limits tend to be based on Watt hours (Wh), and I'm confused about the conversion formula - specifically, the voltage part.</p>
+
+<p>The conversion formula is <strong>mAh divided by 1,000 (or, Ah) times V = Wh</strong>. From what I can find online, V means ""operating voltage"", and this is where I get confused.</p>
+
+<p>I can't see any reference to operating voltage on my battery. As for output voltage, there are four possibilities:</p>
+
+<ul>
+<li>USB at 5V</li>
+<li>DC at 12V</li>
+<li>DC at 15V</li>
+<li>DC at 19V</li>
+</ul>
+
+<p>...which could give anything from 130 to 494, if any of these even <em>are</em> the operating voltage.</p>
+
+<p>How do I find out the operating voltage to make this calculation? Or, is it possible to check based on mAh alone?</p>
+
+<hr>
+
+<p>Funnily enough, <a href=""http://forums.redflagdeals.com/battery-bank-mah-limit-carry-airplane-1520701/"" rel=""nofollow"">someone asked my exact question about my exact brand of battery at some forum</a>. Unfortunately, in a perfect example of why forums are terrible, instead of answering the question, they just started arguing about whether the asker even needed a battery (trust me, I do), whether it's standard to have power sockets on airlines these days (trust me, where I'm flying, it isn't), and recommending solar charging (that's already how I charge this battery!).</p>
+",3
+"What chemical / solution / reagent are TSA agents using when they test liquids? <p>I was reading a news article that apparently TSA agents in the US have been randomly swabbing liquids including drinks, even purchased in the airport beyond the existing screening.</p>
+
+<p>It was stated that the TSA claimed the tests were conducted using a ""non-toxic solution"".</p>
+
+<p>But just what is the solution? How can I know it's safe? If I or someone in my care has allergies I need to know if this solution could invoke a reaction.</p>
+
+<p>Is there a source which tells us what it is and what is in it? If so does it contain anything to which it is known some people have allergies?</p>
+",3
+"How to keep track of all things you are carrying in the luggage and where they are? <p>Often when packing for a trip, I start in a very good manner and following the <a href=""http://travel.stackexchange.com/a/3493/6997"">best techiniques available</a>.</p>
+
+<p>Once I am kind of done with the basics, I start noticing little things that are missing: my agenda, the battery charger, the set of keys, that extra pair of socks that may be useful at the end, etc.</p>
+
+<p>When it is time to unpack or use any of the items, the problem starts:</p>
+
+<ul>
+<li>Did I put the agenda next to the shoes or, instead, in the little pocket of the bag?</li>
+<li>Weren't the socks just underneath the umbrella?</li>
+<li>etc.</li>
+</ul>
+
+<p>This leads to unpacking most of the suitcase until I find the item and all the beautiful order is lost.</p>
+
+<p>So I wonder: how do you people keep track of where are the little items in the suitcase so that you can directly access them instead of just trying to guess where did you place them in the last moment? Maybe tracking it with a paper?</p>
+",3
+"Bus from Mostar to Podgorica <p>I would like to take the bus from Mostar to Podgorica. Is there any? I can't find much info online.</p>
+
+<p>I did find MontenegroHostel is running a shuttle service from Mostar to Kotor, but considering that I would leave from Podgorica Airport, I prefer take a bus from Mostar to Podgorica directly.</p>
+",3
+"Luggage transfer in Hong Kong enroute to Canada? <p>I am a first time flyer and I am confused on transferring to another airline. Im from manila going to canada. Here's my trip pattern:</p>
+
+<ol>
+<li>Manila to Hongkong.</li>
+<li>Hongkong to Vancouver. </li>
+<li>Vancouver to Montreal.</li>
+</ol>
+
+<p>My question is: do I need to get my baggage in hongkong ang recheck it on HKIA Air Canada Desk? I have purchased one ticket. My departure, arrivals, planes etc. was all stated there. Can you help me out?</p>
+",3
+"How to travel from/to Washington Dulles and Annapolis? <p>I've seen a related post on <a href=""http://travel.stackexchange.com/questions/8887/how-to-get-to-from-dulles-airport"">how to get to/from Dulles airport</a>, but I wanted to see if there is any specific further advice to traveling from the airport to Annapolis. Maybe the advice given will also be generally applicable to other places in Maryland?</p>
+
+<p>So far I've seen some instructions on how to <a href=""http://answers.yahoo.com/question/index?qid=20061217003730AAIEhvu"" rel=""nofollow"">make the trip using public transport</a>. Although I'm not entirely sure whether the information there is still accurate.</p>
+
+<p>Another option that seems promising is the <a href=""http://www.supershuttle.com/Locations/IADAirportShuttleWashington.aspx"" rel=""nofollow"">SuperShuttle</a>, but when I ask for a quote online I get a price of $150 for a single person! Is that for real, even on a shared van?</p>
+",3
+"Miss my flight on purpose <p>At the end of this month I have a flight from St. Lucia to New York and then New York to Phoenix where I live. There is a 24 hour layover in New York so I figured I would stay an extra day.</p>
+
+<p>In order to change my flight and cancel the existing reservation to change it was about $500. I could book with a separate airline and it will cost a fourth of that. My question is:</p>
+
+<p>If I miss my flight from New York to Phoenix and take a flight with a different airline, will I be OK?</p>
+",3
+"Travelling from India to Montreal <p>Do I need a transit visa at London and Boston if I book a flight from India to Montreal, which requires change of flight at London and Boston?</p>
+
+<p>If possible or required can anyone elaborate the conditions on which i require a transit visa and also the cost of the transit visa?</p>
+",3
+"Will a small unpaid medical bill prevent me from obtaining a US VISA? A B2 tourist visa to be exact <p>I have been to the US three times in the past, however I incurred a medical bill inndecember 2015, the bulk of the bill about $4500 has been paid by my insurance, however there is a small amount of about 500 dollars unpaid, was wondering if this would prevent me from getting another tourist visa? I do intend to settle my bill, have just been unable to as yet. </p>
+
+<p>Do the consular official have access to medical bill information? And could my outstanding bill make seen as a public charge? I am currently a medical student so have a decent skill set, will this be in my favour? </p>
+
+<p>Thanks and regards! </p>
+
+<p>Urgent response required. Thanks.</p>
+",3
